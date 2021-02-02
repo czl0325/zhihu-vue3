@@ -15,7 +15,8 @@ const testData:ColumnProps[] = [
   {id:2, title: '专栏2', description: '这是专栏2'}
 ]
 const currentUser:UserProps = {
-  isLogin: false
+  isLogin: true,
+  name: '陈昭良'
 }
 
 export default defineComponent({
