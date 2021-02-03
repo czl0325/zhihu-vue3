@@ -7,16 +7,11 @@
     </ul>
     <ul v-else class="list-inline mb-0">
       <li class="list-inline-item">
-        <div class="dropdown">
-          <button class="btn btn-outline-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            您好 {{user.name}}
-          </button>
-          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
-          </div>
-        </div>
+        <dropdown :title="`您好 ${user.name}`">
+          <dropdown-item class="dropdown-item">新建文章</dropdown-item>
+          <dropdown-item class="dropdown-item">编辑资料</dropdown-item>
+          <dropdown-item disabled class="dropdown-item">退出登录</dropdown-item>
+        </dropdown>
       </li>
     </ul>
 
@@ -25,6 +20,9 @@
 
 <script lang="ts">
 import {defineComponent, PropType} from 'vue'
+import Dropdown from "@/components/Dropdown.vue";
+import DropdownItem from "@/components/DropdownItem.vue";
+
 export interface UserProps {
   isLogin: boolean;
   id?: number;
@@ -36,6 +34,10 @@ export default defineComponent({
     user: {
       type: Object as PropType<UserProps>
     }
+  },
+  components: {
+    Dropdown,
+    DropdownItem
   }
 })
 </script>
