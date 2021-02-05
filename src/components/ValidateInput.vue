@@ -7,7 +7,8 @@
 </template>
 
 <script lang="ts">
-import {defineComponent, PropType, reactive} from 'vue'
+import {defineComponent, onMounted, PropType, reactive} from 'vue'
+import {emitter} from './ValidateForm.vue'
 
 interface RuleType {
   type: 'required' | 'email';
@@ -47,13 +48,19 @@ export default defineComponent({
           return passed
         })
         inputRef.error = !allPassed
+        console.log("allPassed", allPassed)
+        return allPassed
       }
+      return true
     }
     const updateValue = (e: KeyboardEvent) => {
       const targetValue = (e.target as HTMLInputElement).value
       inputRef.value = targetValue
       context.emit("update:modelValue", targetValue)
     }
+    onMounted(() => {
+      emitter.emit('validate', validateInput)
+    })
     return {
       inputRef,
       validateInput,
