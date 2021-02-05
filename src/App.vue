@@ -2,7 +2,7 @@
   <div class="container">
     <GlobalHeader :user="user"/>
     <form>
-      <validate-input class="mb-3" :rules="emailRules" title="电子邮箱"></validate-input>
+      <validate-input class="mb-3" :rules="emailRules" title="电子邮箱" v-model="emailRef"  placeholder="请输入电子邮箱"></validate-input>
       <button type="submit" class="btn btn-primary mt-3">Submit</button>
     </form>
 
@@ -10,7 +10,7 @@
 </template>
 
 <script lang="ts">
-import {defineComponent, reactive} from 'vue'
+import {defineComponent, reactive, ref} from 'vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import ColumnList, {ColumnProps} from './components/ColumnList.vue';
 import GlobalHeader, {UserProps} from "@/components/GlobalHeader.vue";
@@ -42,10 +42,12 @@ export default defineComponent({
       {type: 'required', message: '电子邮箱不能为空!'},
       {type: 'email', message: '电子邮箱格式错误!'},
     ]
+    const emailRef = ref('')
     return {
       list: testData,
       user: currentUser,
-      emailRules
+      emailRules,
+      emailRef
     }
   }
 })

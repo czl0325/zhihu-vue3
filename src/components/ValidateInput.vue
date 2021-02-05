@@ -1,7 +1,7 @@
 <template>
   <div class="form-group">
     <label for="inputValue">{{ title }}</label>
-    <input class="form-control" :class="{'is-invalid': inputRef.error}" id="inputValue" v-model="inputRef.value" @blur="validateInput" >
+    <input class="form-control" :class="{'is-invalid': inputRef.error}" id="inputValue" :value="inputRef.value" @blur="validateInput" @input="updateValue" v-bind="$attrs">
     <small id="emailHelp" class="form-text text-danger" v-if="inputRef.error">{{ inputRef.message }}</small>
   </div>
 </template>
@@ -10,7 +10,7 @@
 import {defineComponent, PropType, reactive} from 'vue'
 
 interface RuleType {
-  type: 'required' | 'email' | 'range';
+  type: 'required' | 'email';
   message: string;
 }
 
@@ -20,14 +20,14 @@ export type RulesProp = RuleType[]
 export default defineComponent({
   name: "ValidateInput",
   props: {
-    rules: {
-      type: Array as PropType<RuleType[]>,
-    },
-    title: String
+    rules: Array as PropType<RuleType[]>,
+    title: String,
+    modelValue: String,
   },
-  setup(props) {
+  inheritAttrs: false,
+  setup(props, context) {
     const inputRef = reactive({
-      value: '',
+      value: props.modelValue || '',
       error: false,
       message: ''
     })
@@ -49,9 +49,15 @@ export default defineComponent({
         inputRef.error = !allPassed
       }
     }
+    const updateValue = (e: KeyboardEvent) => {
+      const targetValue = (e.target as HTMLInputElement).value
+      inputRef.value = targetValue
+      context.emit("update:modelValue", targetValue)
+    }
     return {
       inputRef,
-      validateInput
+      validateInput,
+      updateValue
     }
   }
 })
