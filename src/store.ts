@@ -5,7 +5,9 @@ const store = createStore({
         user: {isLogin: false}
     },
     mutations: {
-
+        updateUser(state, user) {
+            state.user = { ...state.user, ...user }
+        }
     }
 })
 

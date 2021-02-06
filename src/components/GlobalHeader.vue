@@ -10,7 +10,7 @@
         <dropdown :title="`您好 ${user.name}`">
           <dropdown-item class="dropdown-item">新建文章</dropdown-item>
           <dropdown-item class="dropdown-item">编辑资料</dropdown-item>
-          <dropdown-item disabled class="dropdown-item">退出登录</dropdown-item>
+          <dropdown-item class="dropdown-item">退出登录</dropdown-item>
         </dropdown>
       </li>
     </ul>
@@ -18,21 +18,23 @@
 </template>
 
 <script lang="ts">
-import {defineComponent, PropType} from 'vue'
+import {computed, defineComponent, PropType} from 'vue'
 import Dropdown from "@/components/Dropdown.vue";
 import DropdownItem from "@/components/DropdownItem.vue";
-import {UserProps} from "@/model/model";
+import {useStore} from "vuex";
 
 export default defineComponent({
   name: "GlobalHeader",
-  props: {
-    user: {
-      type: Object as PropType<UserProps>
-    }
-  },
   components: {
     Dropdown,
     DropdownItem
+  },
+  setup() {
+    const store = useStore()
+    const user = computed(() => store.state.user)
+    return {
+      user
+    }
   }
 })
 </script>

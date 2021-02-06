@@ -11,6 +11,7 @@ import GlobalHeader from "@/components/GlobalHeader.vue";
 import ValidateForm from "@/components/ValidateForm.vue";
 import ValidateInput from "@/components/ValidateInput.vue";
 import {useRouter} from "vue-router";
+import {useStore} from "vuex";
 
 export default defineComponent({
   name: "Login",
@@ -30,9 +31,11 @@ export default defineComponent({
     const emailRef = ref('')
     const pwdRef = ref('')
     const router = useRouter()
+    const store = useStore()
     const onFormSubmit = (value: boolean) => {
       if (value) {
-        router.push({name: 'home'})
+        store.commit('updateUser', {isLogin: true, name: '陈昭良', id: 1})
+        router.push('/')
       }
     }
     return {
