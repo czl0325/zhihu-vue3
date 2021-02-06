@@ -22,7 +22,6 @@ export default defineComponent({
     let validateArr:ValidateFunc[] = []
     const submitForm = () => {
       const result = validateArr.map(func => { return func() }).every(res => res)
-      console.log("总结果", result)
       context.emit('form-submit', result)
     }
     const callback = (func: ValidateFunc) => {

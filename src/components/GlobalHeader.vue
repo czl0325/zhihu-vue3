@@ -2,8 +2,8 @@
   <nav class="navbar navbar-dark bg-primary justify-content-between mb-4 px-3">
     <a class="navbar-brand">知乎专栏</a>
     <ul v-if="!user.isLogin" class="list-inline mb-0">
-      <li class="list-inline-item"><a class="btn btn-outline-light my-2">登录</a></li>
-      <li class="list-inline-item"><a class="btn btn-outline-light my-2">注册</a></li>
+      <li class="list-inline-item"><router-link class="btn btn-outline-light my-2" :to="{name: 'login'}">登录</router-link></li>
+      <li class="list-inline-item"><router-link class="btn btn-outline-light my-2" :to="{name: 'login'}">注册</router-link></li>
     </ul>
     <ul v-else class="list-inline mb-0">
       <li class="list-inline-item">
@@ -14,7 +14,6 @@
         </dropdown>
       </li>
     </ul>
-
   </nav>
 </template>
 
@@ -22,12 +21,8 @@
 import {defineComponent, PropType} from 'vue'
 import Dropdown from "@/components/Dropdown.vue";
 import DropdownItem from "@/components/DropdownItem.vue";
+import {UserProps} from "@/model/model";
 
-export interface UserProps {
-  isLogin: boolean;
-  id?: number;
-  name?: string;
-}
 export default defineComponent({
   name: "GlobalHeader",
   props: {

@@ -15,7 +15,7 @@ interface RuleType {
   message: string;
 }
 
-const emailReg = /^[A-Za-zd0-9]+([-_.][A-Za-zd]+)*@([A-Za-zd]+[-.])+[A-Za-zd]{2,5}$/;
+const emailReg = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/
 
 export type RulesProp = RuleType[]
 export default defineComponent({
@@ -48,7 +48,6 @@ export default defineComponent({
           return passed
         })
         inputRef.error = !allPassed
-        console.log("allPassed", allPassed)
         return allPassed
       }
       return true
