@@ -6,6 +6,7 @@
       <a class="navbar-brand" href="#">作者：陈昭良</a>
     </footer>
   </div>
+  <loading></loading>
 </template>
 
 <script lang="ts">
@@ -13,11 +14,13 @@ import {defineComponent, reactive} from 'vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import GlobalHeader from "@/components/GlobalHeader.vue";
 import store from "@/store";
+import Loading from "@/components/Loading.vue";
 
 export default defineComponent({
   name: 'App',
   components: {
-    GlobalHeader
+    GlobalHeader,
+    Loading
   },
   setup() {
     const user = store.state.user
