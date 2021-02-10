@@ -1,6 +1,6 @@
 <template>
   <div>
-    <column-list :list="list"></column-list>
+    <column-list :list="list" @click="onTap"></column-list>
   </div>
 </template>
 
@@ -8,6 +8,7 @@
 import {defineComponent} from 'vue'
 import ColumnList, {ColumnProps} from "@/components/ColumnList.vue";
 import store from "@/store";
+import createToast from "@/hooks/CreateToast";
 
 const testData: ColumnProps[] = [
   {
@@ -25,8 +26,12 @@ export default defineComponent({
     ColumnList,
   },
   setup() {
+    const onTap = () => {
+      createToast('测试弹框', 'success')
+    }
     return {
-      list: testData
+      list: testData,
+      onTap
     }
   }
 })

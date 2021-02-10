@@ -6,7 +6,6 @@
       <a class="navbar-brand" href="#">作者：陈昭良</a>
     </footer>
   </div>
-  <loading></loading>
 </template>
 
 <script lang="ts">
