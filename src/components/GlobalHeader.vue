@@ -3,7 +3,7 @@
     <a class="navbar-brand">知乎专栏</a>
     <ul v-if="!user.isLogin" class="list-inline mb-0">
       <li class="list-inline-item"><router-link class="btn btn-outline-light my-2" :to="{name: 'login'}">登录</router-link></li>
-      <li class="list-inline-item"><router-link class="btn btn-outline-light my-2" :to="{name: 'login'}">注册</router-link></li>
+      <li class="list-inline-item"><router-link class="btn btn-outline-light my-2" :to="{name: 'register'}">注册</router-link></li>
     </ul>
     <ul v-else class="list-inline mb-0">
       <li class="list-inline-item">
