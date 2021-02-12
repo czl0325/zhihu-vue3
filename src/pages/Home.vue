@@ -1,5 +1,6 @@
 <template>
   <div>
+    <file-upload></file-upload>
     <column-list :list="list" @click="onTap"></column-list>
   </div>
 </template>
@@ -9,6 +10,7 @@ import {defineComponent} from 'vue'
 import ColumnList, {ColumnProps} from "@/components/ColumnList.vue";
 import store from "@/store";
 import createToast from "@/hooks/CreateToast";
+import FileUpload from "@/components/FileUpload.vue";
 
 const testData: ColumnProps[] = [
   {
@@ -24,6 +26,7 @@ export default defineComponent({
   name: "Home",
   components: {
     ColumnList,
+    FileUpload
   },
   setup() {
     const onTap = () => {
