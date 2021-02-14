@@ -1,5 +1,6 @@
 import {createApp} from 'vue'
-import Toast, {ToastType} from '../components/Toast.vue'
+// @ts-ignore
+import Toast,{ToastType}  from '../components/Toast.vue'
 
 const createToast = (message: string, type: ToastType='default', dismiss?: () => void, timeout: number=2000) => {
     const toast = createApp(Toast, {

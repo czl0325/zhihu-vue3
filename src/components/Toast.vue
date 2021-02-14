@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import {defineComponent, PropType, ref} from 'vue'
+import {defineComponent, PropType} from 'vue'
 import UserCreateDom from '../hooks/UserCreateDom'
 
 export type ToastType = 'success' | 'error' | 'default';

@@ -22,7 +22,7 @@ Mock.mock('/user/login', 'post', () => {
         message: '成功',
         data: {
             id: 1,
-            nickName: 'czl',
+            userName: 'czl',
             email: '295183917@qq.com'
         }
     }
