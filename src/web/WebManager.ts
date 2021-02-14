@@ -25,3 +25,11 @@ export const getUserById = (id: number) => {
 export const getColumnList = () => {
     return get(`/column/list`, { id: 1})
 }
+
+export const getArticleList = () => {
+    return get(`/column/articles`)
+}
+
+export const getAuthor = () => {
+    return get('/column/author')
+}

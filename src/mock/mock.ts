@@ -50,3 +50,19 @@ Mock.mock(RegExp('^/column/list'), 'get', () => {
         data: require('./column.json')
     }
 })
+
+Mock.mock('/column/articles', 'get', () => {
+    return {
+        code: 0,
+        message: '成功',
+        data: require('./articles.json')
+    }
+})
+
+Mock.mock('/column/author', 'get', () => {
+    return {
+        code: 0,
+        message: '成功',
+        data: require('./author.json')
+    }
+})

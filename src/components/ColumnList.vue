@@ -11,7 +11,7 @@
         <div class="card-body text-center mx-auto overflow-hidden" style="width: 90%;">
           <h5 class="card-title text-truncate w-100" style="-webkit-line-clamp: 1">{{ column.title }}</h5>
           <p class="card-text text-left w-100 text-truncate text-wrap" style="-webkit-line-clamp: 2;display: -webkit-box;-webkit-box-orient:vertical;">{{ column.description }}</p>
-          <a href="#" class="btn btn-outline-primary">进入专栏</a>
+          <router-link to="article" class="btn btn-outline-primary">进入专栏</router-link>
         </div>
       </div>
     </li>

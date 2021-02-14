@@ -1,0 +1,18 @@
+{
+  "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+  "badge": [{
+    "type": "identity",
+    "description": "深圳博宁健康科技有限公司 创始人"
+  }],
+  "name": "刘洹Burning",
+  "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+  "gender": 1,
+  "user_type": "people",
+  "url_token": "MrBurning",
+  "is_advertiser": false,
+  "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+  "is_org": false,
+  "headline": "微信burning6768 ，领取299元减脂健身资料",
+  "type": "people",
+  "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+}

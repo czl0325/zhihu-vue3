@@ -3,6 +3,7 @@ import Register from "@/pages/Register.vue";
 import Login from "@/pages/Login.vue";
 import Home from "@/pages/Home.vue";
 import Detail from "@/pages/Detail.vue";
+import Article from "@/pages/Article.vue";
 import {getUserById} from '@/web/WebManager'
 import store from "@/store";
 
@@ -25,6 +26,11 @@ const router = createRouter({
             path: '/',
             name: 'home',
             component: Home
+        },
+        {
+            path: '/article',
+            name: 'article',
+            component: Article
         },
         {
             path: '/detail/:id',
