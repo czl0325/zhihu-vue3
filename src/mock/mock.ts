@@ -28,7 +28,22 @@ Mock.mock('/user/login', 'post', () => {
     }
 })
 
-Mock.mock('/column/list', 'get', () => {
+Mock.mock(RegExp('/user/get'), 'get', (params) => {
+    console.log(params)
+    const { id } = JSON.parse(params.body)
+    console.log('获取到的id=', id)
+    return {
+        code: 0,
+        message: '成功',
+        data: {
+            id: 1,
+            userName: 'czl',
+            email: '295183917@qq.com'
+        }
+    }
+})
+
+Mock.mock(RegExp('^/column/list'), 'get', () => {
     return {
         code: 0,
         message: '成功',

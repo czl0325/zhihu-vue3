@@ -16,6 +16,12 @@ export const register = (userName: string, email: string, password1: string, pas
     })
 }
 
+export const getUserById = (id: number) => {
+    return get('/user/get', {
+        id
+    })
+}
+
 export const getColumnList = () => {
-    return get(`/column/list`)
+    return get(`/column/list`, { id: 1})
 }

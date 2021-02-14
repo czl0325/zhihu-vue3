@@ -3,7 +3,7 @@ import createToast from "@/hooks/CreateToast";
 
 export const get = async (url: string, params?: object) => {
     const data = await axios.get(url, {
-        params: params || {}
+        data: params || {}
     })
     return executeData(data)
 }

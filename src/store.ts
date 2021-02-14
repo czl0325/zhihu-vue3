@@ -1,6 +1,12 @@
 import {createStore} from 'vuex'
+import {UserProps} from "@/model/model";
 
-const store = createStore({
+export interface GlobalStoreProps {
+    user: UserProps,
+    loading: boolean
+}
+
+const store = createStore<GlobalStoreProps>({
     state: {
         user: {},
         loading: false

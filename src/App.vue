@@ -9,17 +9,15 @@
 </template>
 
 <script lang="ts">
-import {defineComponent, reactive} from 'vue'
+import {defineComponent} from 'vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import GlobalHeader from "@/components/GlobalHeader.vue";
 import store from "@/store";
-import Loading from "@/components/Loading.vue";
 
 export default defineComponent({
   name: 'App',
   components: {
-    GlobalHeader,
-    Loading
+    GlobalHeader
   },
   setup() {
     const user = store.state.user

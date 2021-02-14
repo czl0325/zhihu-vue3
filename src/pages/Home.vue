@@ -8,7 +8,8 @@
 import {defineComponent, onMounted, ref} from 'vue'
 import ColumnList, {ColumnProps} from "@/components/ColumnList.vue";
 import createToast from "@/hooks/CreateToast";
-import {getColumnList} from '@/web/WebManager'
+import {getColumnList, getUserById} from '@/web/WebManager'
+import axios from "axios";
 
 export default defineComponent({
   name: "Home",
@@ -23,6 +24,9 @@ export default defineComponent({
     onMounted(() => {
       getColumnList().then(res=>{
         columnList.value = res.data
+      })
+      getUserById(1).then(res=>{
+        console.log(res)
       })
     })
     return {
