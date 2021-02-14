@@ -10,7 +10,7 @@ import {defineComponent, onMounted, ref} from 'vue'
 import ColumnList, {ColumnProps} from "@/components/ColumnList.vue";
 import createToast from "@/hooks/CreateToast";
 import FileUpload from "@/components/FileUpload.vue";
-import {getColumnList} from '../web/WebManager'
+import {getColumnList} from '@/web/WebManager'
 
 export default defineComponent({
   name: "Home",
@@ -25,7 +25,7 @@ export default defineComponent({
     const columnList = ref<ColumnProps[]>([])
     onMounted(() => {
       getColumnList().then(res=>{
-        columnList.value = res.data.data.data
+        columnList.value = res.data
       })
     })
     return {

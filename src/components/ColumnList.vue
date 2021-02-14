@@ -7,10 +7,10 @@
         :key="column.id"
     >
       <div class="card h-100 shadow-sm">
-        <img class="card-img-top" style="height: 40%;" :src="column.image_url" :alt="column.title"/>
-        <div class="card-body text-center">
-          <h5 class="card-title">{{ column.title }}</h5>
-          <p class="card-text text-left">{{ column.description }}</p>
+        <img class="mx-auto overflow-hidden rounded-circle my-3" style="width: 100px; height: 100px; object-fit: cover;" :src="column.image_url" :alt="column.title"/>
+        <div class="card-body text-center mx-auto overflow-hidden" style="width: 90%;">
+          <h5 class="card-title text-truncate w-100" style="-webkit-line-clamp: 1">{{ column.title }}</h5>
+          <p class="card-text text-left w-100 text-truncate text-wrap" style="-webkit-line-clamp: 2;display: -webkit-box;-webkit-box-orient:vertical;">{{ column.description }}</p>
           <a href="#" class="btn btn-outline-primary">进入专栏</a>
         </div>
       </div>

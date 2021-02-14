@@ -1,4 +1,4 @@
-import {createApp, PropType} from 'vue'
+import {createApp} from 'vue'
 import Toast, {ToastType} from '../components/Toast.vue'
 
 const createToast = (message: string, type: ToastType='default', dismiss?: () => void, timeout: number=2000) => {
