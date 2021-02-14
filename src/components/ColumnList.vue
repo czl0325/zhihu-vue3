@@ -7,7 +7,7 @@
         :key="column.id"
     >
       <div class="card h-100 shadow-sm">
-        <img class="card-img-top" style="height: 40%;" :src="column.avatar" :alt="column.title"/>
+        <img class="card-img-top" style="height: 40%;" :src="column.image_url" :alt="column.title"/>
         <div class="card-body text-center">
           <h5 class="card-title">{{ column.title }}</h5>
           <p class="card-text text-left">{{ column.description }}</p>
@@ -21,10 +21,21 @@
 import {computed, defineComponent, PropType} from "vue";
 
 export interface ColumnProps {
-  id: number;
-  title: string;
-  avatar?: string;
-  description: string;
+  updated: number,
+  description: string,
+  column_type: string,
+  url: string,
+  title: string,
+  comment_permission: string,
+  created: number,
+  accept_submission: boolean,
+  intro: string,
+  image_url: string,
+  type: string,
+  followers: number,
+  url_token: string,
+  id: string,
+  articles_count: number
 }
 
 export default defineComponent({
@@ -38,8 +49,8 @@ export default defineComponent({
   setup(props) {
     const columnList = computed(() => {
       return props.list.map(column => {
-        if (!column.avatar) {
-          column.avatar = require('@/assets/loading.jpg')
+        if (!column.image_url) {
+          column.image_url = require('@/assets/loading.jpg')
         }
         return column
       })

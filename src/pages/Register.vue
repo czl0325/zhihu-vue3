@@ -1,6 +1,6 @@
 <template>
   <validate-form class="container-fluid" @form-submit="onSubmit">
-    <validate-input title="用户名" :rules="userRules" v-model="userInfo.nickName"></validate-input>
+    <validate-input title="用户名" :rules="userRules" v-model="userInfo.userName"></validate-input>
     <validate-input title="邮箱" :rules="emailRules" v-model="userInfo.email"></validate-input>
     <validate-input title="密码" :rules="pwd1Rules" v-model="userInfo.password1"></validate-input>
     <validate-input title="再次输入密码" :rules="pwd2Rules" v-model="userInfo.password2"></validate-input>
@@ -20,7 +20,7 @@ export default defineComponent({
   },
   setup() {
     const userInfo = reactive({
-      nickName: '',
+      userName: '',
       email: '',
       password1: '',
       password2: ''
@@ -30,7 +30,9 @@ export default defineComponent({
     const pwd1Rules = [{ type: 'required', message: '密码必填' }]
     const pwd2Rules = [{ type: 'custom', message: '密码不相同', function: () => {return userInfo.password1 === userInfo.password2} }]
     const onSubmit = (result: boolean) => {
+      if (result) {
 
+      }
     }
     return {
       userInfo,
