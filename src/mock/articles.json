@@ -1,0 +1,1011 @@
+{
+  "paging": {
+    "is_end": false,
+    "totals": 362,
+    "previous": "http://www.zhihu.com/api/v4/members/MrBurning/articles?sort_by=created&include=data[*].comment_count,suggest_edit,is_normal,thumbnail_extra_info,thumbnail,can_comment,comment_permission,admin_closed_comment,content,voteup_count,created,updated,upvoted_followees,voting,review_info,is_labeled,label_info;data[*].author.badge[?(type=best_answerer)].topics&limit=20&offset=0",
+    "is_start": true,
+    "next": "http://www.zhihu.com/api/v4/members/MrBurning/articles?sort_by=created&include=data[*].comment_count,suggest_edit,is_normal,thumbnail_extra_info,thumbnail,can_comment,comment_permission,admin_closed_comment,content,voteup_count,created,updated,upvoted_followees,voting,review_info,is_labeled,label_info;data[*].author.badge[?(type=best_answerer)].topics&limit=20&offset=20"
+  },
+  "data": [{
+    "updated": 1612776156,
+    "is_labeled": false,
+    "excerpt": "<b>我先来简单说下哑铃和杠铃的区别<\/b>首先这两个器材的设计出发点就不同，哑铃是由一个短杠搭配上两端的重量，主要设计为单手握；而杠铃是由一个长杠搭配两端的杠片重量组成，主要设计给双手训练使用。 哑铃和杠铃都是健身中最常见的两种力量训练器械，哑铃属于…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 350010697,
+    "voteup_count": 3,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/350010697",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1612763876,
+    "content": "<h2><b>我先来简单说下哑铃和杠铃的区别<\/b><\/h2><p>首先这两个器材的设计出发点就不同，哑铃是由一个短杠搭配上两端的重量，主要设计为单手握；而杠铃是由一个长杠搭配两端的杠片重量组成，主要设计给双手训练使用。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e775b0cf38f41a22293f5080c7824cd4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"889\" data-rawheight=\"527\" class=\"origin_image zh-lightbox-thumb\" width=\"889\" data-original=\"https://pic1.zhimg.com/v2-e775b0cf38f41a22293f5080c7824cd4_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;889&#39; height=&#39;527&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"889\" data-rawheight=\"527\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"889\" data-original=\"https://pic1.zhimg.com/v2-e775b0cf38f41a22293f5080c7824cd4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e775b0cf38f41a22293f5080c7824cd4_b.jpg\"/><\/figure><p>哑铃和杠铃都是健身中最常见的两种力量训练器械，哑铃属于自由重量，而杠铃属于自由器械和固定器械之间，所以哑铃的自由度和运动轨迹、角度会更多，刺激肌肉的方式也更多。而杠铃由于是双手握，而且两端固定，所以角度和运动轨迹会少一些。<\/p><p><b>总的来说，杠铃能做的所有动作哑铃基本也都能做，但是反过来就不行。<\/b><\/p><h2><b>杠铃相对于哑铃的优点：<\/b><\/h2><p>a 杠铃稳定性更好。因为杠铃是双手控制，动作轨迹少，就比哑铃更稳定。由于稳定，对于新手更容易控制动作。比如杠铃二头弯举、杠铃俯身划船、杠铃卧推、杠铃硬拉这些动作都会比哑铃版本更容易掌握。<\/p><p>b 杠铃可以使用更大的负重，也就意味着，可以更好的堆积训练容量。通过不断增加杠铃片的重量，让你的肌肉慢慢接受新的刺激，承受更大的负荷量，这也是健身中（尤其增肌）重要的&#34;渐进超负荷原理&#34;，负重越大一般练肌肉的效果也会更好。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>特别是对瘦子来说，前期力量不足，通过杠铃优先提升力量的训练方式，对增肌和以后的训练都有很大帮助。<\/p><h2><b>哑铃相对于杠铃的优点：<\/b><\/h2><p>a 哑铃是两个独立的器械，所以可选择单臂或交替训练，比如交替卧推，一侧手臂按压哑铃，而另一侧手臂则放下哑铃或单臂动作。<\/p><p>两侧手臂独立训练也更有针对性，由于可以两边可以拿相同重量，可以帮助纠正力量不平衡，还可以独立训练肌力较弱的单边肌肉。例如：你的胸部左侧比右侧大，你就可以使用单臂卧推来纠正这种肌肉不平衡的情形。或者手臂一边更细，也可以做单侧训练。<\/p><p>b灵活性更强，提供更大的运动范围和幅度，这样刺激肌肉的角度会更多，促进肌肉的增长。比如在练肩部三角肌和肱二头肌就可以选择多个角度的动作。<\/p><p>c哑铃在家练的安全性可能更高一些，拿起放下都比较方便，再比如哑铃做不动的时候扔掉就可以。<\/p><p>d更好锻炼核心稳定性，你必须要控制两侧独立的手臂动作，而不是同时用双臂控制，这会使得哑铃训练时，你的肌肉将不得不做更多的工作，来保持身体及训练肌群的稳定。<\/p><h2><b>杠铃的缺点：<\/b><\/h2><p>a 运动模式比较固定，没有哑铃的自由度高。比如杠铃卧推，从开始到最后，手在水平轴上没有移动，这就限制了胸肌的一部分发力，更多是利用了肱三头肌伸肘的力量。再比如俯身飞鸟练习肩膀这个动作其实也只能哑铃做，杠铃做不了。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-59a2f1e2c970f8de3acb25e9ce96dc7b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-59a2f1e2c970f8de3acb25e9ce96dc7b_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;210&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-59a2f1e2c970f8de3acb25e9ce96dc7b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-59a2f1e2c970f8de3acb25e9ce96dc7b_b.jpg\"/><\/figure><p>b 杠铃所需场地相对哑铃更大，对安全性要求更高。在家用杠铃有的动作可能压住身体或者造成手腕的伤病。比如在家的瑜伽垫练习卧推。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-04cc1d2c3f5e7017fd8f9c15f8b22779_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"358\" data-rawheight=\"334\" class=\"content_image\" width=\"358\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;358&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"358\" data-rawheight=\"334\" class=\"content_image lazy\" width=\"358\" data-actualsrc=\"https://pic2.zhimg.com/v2-04cc1d2c3f5e7017fd8f9c15f8b22779_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>C 杠铃有可能会一边力量更多发力就更大而不自知，久而久之就会造成一侧的力量越来越大于另一侧。<\/p><h2><b>哑铃的缺点：<\/b><\/h2><p>哑铃对动作的平衡要求会更高，初学者没有杠铃那么容易掌握。特别是做大重量时核心不稳会导致动作的变形，所以用哑铃冲击大重量容易受限。比如进行大重量卧推、硬拉和深蹲的是时候都是采用杠铃而不是哑铃。<\/p><p>最后，哑铃和杠铃本质的区别就在于灵活性，哑铃灵活性更大所以就会更不稳定，对于不同的部位，不同的动作，不同的人群所需要的训练方式也是不同的，要结合你的训练目的来选择，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><h2><b>我再说下二者的使用场景<\/b><\/h2><p>如果你是初学者想快速掌握健身的基本动作，推荐用杠铃练习，熟悉之后再用杠铃和哑铃的交替。<\/p><p>如果想用更大重量来刺激肌肉的生长，就选择杠铃训练。<\/p><p>如果你已经入门健身，想要塑造局部的肌肉线条，那么选择哑铃训练会比较合适，毕竟哑铃刺激的幅度和角度会更多。<\/p><p>如果你想改善单侧的力量，哑铃肯定也会更加合适。<\/p><p>如果你长期在家健身，那么选择可调节哑铃就足够了，因为所有杠铃动作哑铃都可以做，实际上我自己长期在家健身，并没有用杠铃。如果偶尔去健身房那可以去健身房的时候好好用杠铃再练一遍。硬是要二选一，选择哑铃即可。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b><i>发我666，拿299元减脂健身资料包~<\/i><\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f96fe407b89cfd0ea2ae771f5b7d337a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"828\" data-rawheight=\"478\" class=\"origin_image zh-lightbox-thumb\" width=\"828\" data-original=\"https://pic3.zhimg.com/v2-f96fe407b89cfd0ea2ae771f5b7d337a_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;828&#39; height=&#39;478&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"828\" data-rawheight=\"478\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"828\" data-original=\"https://pic3.zhimg.com/v2-f96fe407b89cfd0ea2ae771f5b7d337a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f96fe407b89cfd0ea2ae771f5b7d337a_b.jpg\"/><\/figure><p><\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic4.zhimg.com/v2-9ac71029286032e9ddee08589e9c3ae8_r.jpg",
+    "title": "哑铃和杠铃健身到底什么区别？选哪个？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1611651550,
+    "is_labeled": false,
+    "excerpt": "首先，想完成半马或全马最好先将自己的BMI降低到正常范围18-23之间，这样在训练期间和比赛的时候才能确保膝盖的安全。其次，最好是去医院进行一次比较全面的体检，尤其是50岁以上的人，要确保身体没有问题，另外，可以跟医生说一下自己要跑马拉松，让他对身…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 347186072,
+    "voteup_count": 3,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/347186072",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1611651550,
+    "content": "<p>首先，想完成半马或全马最好先将自己的BMI降低到正常范围18-23之间，这样在训练期间和比赛的时候才能确保膝盖的安全。其次，最好是去医院进行一次比较全面的体检，尤其是50岁以上的人，要确保身体没有问题，另外，可以跟医生说一下自己要跑马拉松，让他对身体情况评估适不适合跑马。毕竟普通人追求的是安全完成马拉松。<\/p><p><b>如果仅仅是跑完半马或者全马，并不追求特别快的速度的话，对于普通人来说经过系统的训练是不难完成的。但是半马和全马又是两个难度等级。如果要完成全马首先肯定要完成半马。<\/b><\/p><p>大众跑者从跑马的时间长短分为精英级、一级、二级和三级，我先说一下半马，半马是21公里这样，按照精英级跑者的要求完赛时间是1小时34分，三级跑者的要求完赛时间是3小时，难度差距是挺大的，所以按照3小时内完赛的标准即可。我个人认为这个标准大部分身体健康的人通过训练都能完成，即便是零基础跑者，要有信心。<\/p><h2><b>跑马怎么训练？<\/b><\/h2><p>实际上跑步是人与生俱来的技能，所以通过训练提升速度和适应度是比较快的。先准备一双专业的跑步鞋，去实体店购买，直接告诉店员你要跑马，让他推荐试穿，觉得舒服的就可以。然后零基础的人可以按照下面这样简易训练，3-6个月都可以跑半马的。<\/p><p><b>第一阶段，<\/b>去操场或户外慢跑2公里，一周跑3次，比如周一、周四和周六，连续跑两周，跑前跑后可以用泡沫轴放松大小腿。刚开始身体在适应期，身体会有肌肉迟发性酸痛，这个很正常，多拍打放松一下腿，尤其是第一周的前两次。到第二周基本就没事了。这个阶段不用管速度。<\/p><p><b>第二阶段<\/b>，慢跑5公里，一周跑3次，持续一个月，如果觉得每次跑完很轻松可以直接进入下一个阶段。<\/p><p><b>第三阶段<\/b>，慢跑10公里，速度大概7-9公里/小时，主要是进一步提升心肺功能和有氧水平，一周3次，连续一个月。<\/p><p><b>第四阶段<\/b>，慢跑21公里，也就是半马的距离，然后第一次跑不计时，看看自己的感觉。跑跑走走都可以，但是一定要完成。一周2次，一个月后可以把速度调到8公里/小时，如果能完成的话半马3小时内就可以完赛了。训练到离比赛还有1周这样休息即可。半马其实没那么难，对于平时就有运动习惯的人更容易。<\/p><h2><b>全马呢？<\/b><\/h2><p>如果是能完成半马还要跑全马的同学需要注意，全马虽然是2个半马的距离，但是难度却是逐步叠加的，因为在运动后期肌肉的疲劳程度会增加得更快，长时间运动也会造成神经疲劳，身体的水分和糖原储存也不够，需要中途补充几次。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-60854ffc09632d295704be0296502f32_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-60854ffc09632d295704be0296502f32_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;435&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-60854ffc09632d295704be0296502f32_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-60854ffc09632d295704be0296502f32_b.jpg\"/><\/figure><p>全马的完成时间可以按照半马的时间乘以2，可以设置在6小时内完赛。在完成半马后具体可以这样训练：<\/p><p>第一阶段，每周工作日10公里跑2次，然后周末跑一次25公里。持续一个月。<\/p><p>第二阶段，每周工作日10公里跑2次，周末跑一次30公里。持续一个月。<\/p><p>第三阶段，最后一周，工作日10公里跑2次，距离比赛日休息3-5天即可跑马。<\/p><p>我个人并不主张大家去跑全马，从强身健体的角度来说备赛半马已经够了，除非是自己真的喜欢跑步，不然更安全的锻炼方式还有很多。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>更多内容，欢迎关注我的视频号和直播<\/b><\/p><p><a href=\"https://link.zhihu.com/?target=https://weixin.qq.com/f/IJvKXEbmYbX7iwSsv0hztIQ\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://<\/span><span class=\"visible\">weixin.qq.com/f/IJvKXEb<\/span><span class=\"invisible\">mYbX7iwSsv0hztIQ<\/span><span class=\"ellipsis\"><\/span><\/a> (二维码自动识别)<\/p><p><\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic1.zhimg.com/v2-b05e4e5b36721419c6b8f806e0e35eb7_r.jpg",
+    "title": "跑步小白想参加全马或者半马，怎么训练呢？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1609233608,
+    "is_labeled": false,
+    "excerpt": "首先，通过系统科学的训练，一个体重标准，身高180公分的男子完成扣篮并不是一件非常难的事，不需要靠很好的天赋，一定要有信心！ 标准篮筐的高度是3米05，一个身高180公分的男生如果是单手无法抓住球的情况下想扣篮，一般摸高至少要达到330公分（我自己也…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 340432198,
+    "voteup_count": 4,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/340432198",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1609233608,
+    "content": "<p>首先，通过系统科学的训练，一个体重标准，身高180公分的男子完成扣篮并不是一件非常难的事，不需要靠很好的天赋，一定要有信心！<\/p><p>标准篮筐的高度是3米05，一个身高180公分的男生如果是单手无法抓住球的情况下想扣篮，一般摸高至少要达到330公分（我自己也是180公分左右，由于从小喜欢打球和运动，在没有进行过弹跳训练的情况下差不多就是325的摸高，但是很难扣进），如果以标准站立摸高233来算，那么需要97厘米的助跑弹跳，因此，先测试自己目前的弹跳大概是多少，需要提高多少是比较有目的性的。有的健身房和篮球中心是有的。<\/p><p>不方便测试也没关系，如果现在可以刚好碰到或者超出一点篮筐那么摸高就是305-310左右，如果已经可以超出一手掌就是320。如果还摸不到篮板，那么可能通过训练也无法达到扣篮的弹跳或者要练很久。因为训练提升弹跳力的范围一般是20-30公分。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d0e964c06192077efc2442022129bf6e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"448\" class=\"content_image\" width=\"300\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;448&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"448\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic3.zhimg.com/v2-d0e964c06192077efc2442022129bf6e_b.jpg\"/><\/figure><h2><b>弹跳增加原理：<\/b><\/h2><p>弹跳的过程是力量传到过程，从腿部发力作用于地面，弹跳的动作涉及了伸髋、伸膝和伸踝三个关节的活动，而扣篮这个动作主要参与的肌肉包括臀大肌、大腿前侧的股四头肌、大腿后侧的腘绳肌和小腿的腓肠肌，腹肌和后背的竖脊肌也参与其中。也就是说需要多个肌群协同发力，同时有好的力量和速度，也就是爆发力，才能跳得更高。因此，需要增加这些相关肌肉的爆发力。<\/p><p>提升爆发力前先要打好肌肉力量的基础，具体可以做下面的肌肉力量训练动作。<\/p><p>动作一 杠铃负重深蹲，这个动作大家应该都非常熟悉了，能全面锻炼大腿前侧、后侧和臀部以及小腿，去健身房找个深蹲架就能练。如果可以负重深蹲2倍自身体重那么下肢力量对于弹跳就足够了。<\/p><p>动作二 保加利亚分腿蹲，身体保持正直，一脚置于椅子上，身体直上直下，这个动作由于是单腿站立，能很好锻炼臀腿的稳定性和力量，对助跑跳跃帮助很大。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4d89782bc9ddd62f4065c6ed47b09d9b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"684\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"684\" data-original=\"https://pic4.zhimg.com/v2-4d89782bc9ddd62f4065c6ed47b09d9b_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;684&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"684\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"684\" data-original=\"https://pic4.zhimg.com/v2-4d89782bc9ddd62f4065c6ed47b09d9b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4d89782bc9ddd62f4065c6ed47b09d9b_b.jpg\"/><\/figure><p>动作三 杠铃硬拉（图中为哑铃），吸气屈髋俯身将杠铃滑到膝部，俯身时臀部向后坐，再挺直腰背站起。能锻炼整个后背肌群和大腿后侧肌群。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9c6b51855402396aad90e20e90f00595_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"623\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"623\" data-original=\"https://pic2.zhimg.com/v2-9c6b51855402396aad90e20e90f00595_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;623&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"623\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"623\" data-original=\"https://pic2.zhimg.com/v2-9c6b51855402396aad90e20e90f00595_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9c6b51855402396aad90e20e90f00595_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>动作四 提踵，站姿和坐姿都可以，可以再拿一副哑铃在手上增加负重。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c5cbf82c22993a5ede33528110fec9e9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"309\" data-rawheight=\"522\" class=\"content_image\" width=\"309\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;309&#39; height=&#39;522&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"309\" data-rawheight=\"522\" class=\"content_image lazy\" width=\"309\" data-actualsrc=\"https://pic2.zhimg.com/v2-c5cbf82c22993a5ede33528110fec9e9_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>以上的几个动作第一个月每周可以进行3次，比如周一、周四和周六，每个动作做4组，每组做到15次力竭的重量就比较合适，组间休息1分钟。这个月主要是训练基础肌力。<\/p><p>第二个月增加重量，每组做到8-10次力竭。目的是增加肌力。组间休息1分钟。<\/p><p>第三个月降低重量，每组做到20次，每个动作尽量快速，增加爆发力。组间休息1分半钟。<\/p><p>做了力量训练之外，还要进行系统的纵向弹跳专项训练，美国有一个比较著名的训练计划叫做Air Alert，直接上网都能搜到，其实就是无负重的几个简单动作：半蹲跳、提踵、台阶、纵跳、脚尖跳，大概连续进行10周，可以提高弹跳技巧。这个计划建议在进行了几个月的下肢力量训练之后进行，不要心急。<\/p><p>还可以再增加一个自重摸高的动作，比如就是在篮下，不助跑摸高，每次跳到极限，10次一组，做4组。会非常累。<\/p><p>每次训练前后通过泡沫轴的腿部肌肉筋膜放松几分钟，提高整体的柔韧性和运动表现，会提高弹跳力。<\/p><p>球鞋也是有一定影响的，建议可以选耐克的全掌ZOOM篮球鞋，启动反应比较快，落地减震的效果也较好。<\/p>",
+    "comment_count": 0,
+    "image_url": "",
+    "title": "自己180的身高，想要扣篮，怎么健身增加弹跳呢？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1609063411,
+    "is_labeled": false,
+    "excerpt": "很多线上学员想采购跑步机放在家里，所以就问我关于跑步机的建议，今天来回答一下。 1. 明确自己选择跑步机的目的，如果你只是一时兴起，并没有长期的运动习惯或者最不喜欢的运动就是跑步，那就别买了，早晚会沦为晾衣架。 如果你经常去健身房，去了健身房…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 339916424,
+    "voteup_count": 6,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/339916424",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1609063411,
+    "content": "<p>很多线上学员想采购跑步机放在家里，所以就问我关于跑步机的建议，今天来回答一下。<\/p><p>1. 明确自己选择跑步机的目的，如果你只是一时兴起，并没有长期的运动习惯或者最不喜欢的运动就是跑步，那就别买了，早晚会沦为晾衣架。<\/p><p>如果你经常去健身房，去了健身房只是跑步；或者工作繁忙，你下班健身房也下班的话，那就买个跑步机在家里。第一可以培养自己的运动习惯，哪怕从每天十分钟开始，都能帮助你坚持下去（下雨、刮风就成为不了你不运动的理由啦）；第二，对于初学跑步爱好者，跑步机旁边放个镜子，可以纠正及调整跑步姿势；第三，作为健身房力量训练的补充，当没有时间天天去健身房时，那就在健身房多做力量训练，家里跑步机作为每周有氧训练的补充。<\/p><p>2、跑步机的价格区间是巨大的，从某宝上不到千元的到进口品牌几万元的都有。主要区别在于各方面的参数配置和功能。贵的跑步机很多功能其实不是刚需的，实际上用不到，会造成性能的浪费。但是太便宜的跑步机各方面的质量是有明显缺陷的。我个人觉得如果长期在家跑步的话不要买低于3000元的跑步机。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8f333f995cb0a49473dcf1749213a025_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1009\" data-rawheight=\"765\" class=\"origin_image zh-lightbox-thumb\" width=\"1009\" data-original=\"https://pic2.zhimg.com/v2-8f333f995cb0a49473dcf1749213a025_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1009&#39; height=&#39;765&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1009\" data-rawheight=\"765\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1009\" data-original=\"https://pic2.zhimg.com/v2-8f333f995cb0a49473dcf1749213a025_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8f333f995cb0a49473dcf1749213a025_b.jpg\"/><\/figure><p>如果预算在3000-5000元可以选择国产品牌，比如舒华，性价比会比较高。预算在5000元以上的就可以关注进口的品牌了，我自己用过很多跑步机，国产的跟进口的目前还确实比不了。我自己的跑步机是美国速尔的，价格在1万左右。<\/p><p>如果预算有限但依旧想买质量好的跑步机可以买二手进口品牌。很多健身房和工作室快做不下去了跑步机都会低价甩卖，是很容易淘到比较好的跑步机的。很多8成新的进口跑步机基本上是网上价的4-5折就能买回来。<\/p><p>3. 家庭跑步机最重要的参数之一是跑带的宽度和长度，宽度我建议选45cm以上，否则很容易踩边，安全性及舒适感较差。45-50CM是家用中比较经济实惠且舒适的跑带宽度。两边安全踏板的宽度也尽量不低于8cm，这样上机下机更安全，有利于保持重心。<\/p><p>长度一般是130-160CM，我推荐150CM左右，太短总感觉担心自己迈不开步子或者不小心走神了跌下去。<\/p><p>最好去线下体验一下跑带宽度和长度是否适合自己的步幅。 <\/p><p>4. 减震功能是跑步机非常重要的另一个参数，它决定了跑步机能否有效保护膝盖，也决定了跑步机产生噪音的大小。减震效果好的跑步机一般采用橡胶减震和气囊减震的方式，入门级别的一般是EVA减震和弹簧减震，EVA减震的反弹力弱，但弹簧减震会对膝盖造成反冲击力损伤。国产低端跑步机基本减震效果是很差的，去实地体验一下减震效果就会知道明显的区别。<\/p><p>5. 马达是跑步机的心脏，一般家用跑步机在1-3HP之间。跑步机的马力，有峰值马力与可持续马力之分，我们着重看可持续马力。体重50kg以下可选1.0HP，50-90kg选1.5-2HP，90-110kg选2-3HP。如果你想快跑，至少需要2HP以上。还需要注意马达在运转时是否平顺且噪音是不是自己可以接受。<\/p><p>6. 如果家里空间不够，可以选择折叠式的，质量也不错，但不如非折叠的固定式稳当舒适、耐用，所以健身房的一半都是固定式的。现在还有全折叠的，空间就会更小。<\/p><p>7. 速度功能设定，一般用户选择16km/h的最高速度的就行，完全够用；跑步爱好者可以选18km/h以上的。<\/p><p>8. 尽量选有坡度调节的跑步机，6-15度的坡度调节就可以，能够增加运动强度，及锻炼不同的腿部肌肉。 <\/p><p>9. 扶手长度越长越安全，再看扶手高度位置是否让你舒适，紧急安全钮是否容易看见或触及。<\/p><p>10、精心选择了一款适合的跑步机之后，为了防止跑步机落灰，我建议你定一个跑步时间，可以手机设置闹钟提醒，每天上去跑一跑，动一动。我自己就是每次晚上在家健身前跑10分钟，然后锻炼，过一会洗澡，晚上睡觉也很舒服，已经形成了习惯。<\/p><p>或者你也可以每周定三次正式的有氧训练，如一次半小时间歇跑步促进燃脂、一次10km匀速跑，一次递增速率跑锻炼心率，在墙上贴一张打卡表，时刻监督激励自己。<\/p><p>11. 如果是膝盖有问题的小伙伴可以买椭圆机来替代，对膝关节压力会更小。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6c736652e411a014c53768c970b0c001_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-6c736652e411a014c53768c970b0c001_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-6c736652e411a014c53768c970b0c001_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6c736652e411a014c53768c970b0c001_b.jpg\"/><\/figure><p>12. 跑步主要是锻炼心肺功能和下肢肌群，如果不是自己非要把跑步作为有氧训练的话，其实可以尝试家用划船机，不但也可以锻炼心肺功能和下肢，而且可以锻炼到跑步训练不到的上肢肌群（肩背手臂核心），会更全面。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-169593e614cf331c53f576b69a045f79_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"588\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb\" width=\"588\" data-original=\"https://pic2.zhimg.com/v2-169593e614cf331c53f576b69a045f79_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;588&#39; height=&#39;419&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"588\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"588\" data-original=\"https://pic2.zhimg.com/v2-169593e614cf331c53f576b69a045f79_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-169593e614cf331c53f576b69a045f79_b.jpg\"/><\/figure><p><\/p>",
+    "comment_count": 1,
+    "image_url": "https://pic4.zhimg.com/v2-12d8096874047bcc50b51ea157e1a6ef_r.jpg",
+    "title": "记住12点！家用跑步机选购攻略！避坑&省钱！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1608110763,
+    "is_labeled": false,
+    "excerpt": "1. 健身房的套路涉及到“边际成本”和“单次博弈”。我来说一下。 你可能发现怎么走到哪都能碰上发健身房传单的小哥，“健身游泳了解一下呀！”。去了几家你就会发现，不管是新店还是老店，你都能刚好赶上打折，而且力度还不小。 会籍会告诉你，这个活动马…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 337405073,
+    "voteup_count": 3,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/337405073",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1608110763,
+    "content": "<p>1. 健身房的套路涉及到“边际成本”和“单次博弈”。我来说一下。<\/p><p>你可能发现怎么走到哪都能碰上发健身房传单的小哥，“健身游泳了解一下呀！”。去了几家你就会发现，不管是新店还是老店，你都能刚好赶上打折，而且力度还不小。<\/p><p>会籍会告诉你，这个活动马上就要结束了，让你今天就赶紧办。如果你没办卡，过段时间再去，你发现他们还在打折，只是换了个促销名头，而且可能你还能获得比之前更低的折扣。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>2. 健身房作为一个入行门槛极低、竞争极其激烈、重资产投入的行业，必须在销售端做得非常激进才能生存下去和扩张。在销售过程中给潜在客户压力，是健身房销售们必须要用好的技术，一般叫做——逼单。<\/p><p>为了让你赶快付钱，他们一定会告诉你，活动马上就结束了。如果你说考虑一下，或者他们之后再打电话给你，他们还会一点点再次降价，比第一次报给你的价格要低很多。这是因为健身房并没对你之后的到来付出任何边际成本，却收了你的会员费。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>3. 由于传统健身房场地大，投入也已经恒定，他们就希望人越多越好。毕竟10000人办卡还是100人办卡他们的边际成本都没有增加。夸张点说，即使你只付10元会员费，他们也在没付出额外成本的情况下取得了收益。<\/p><p>（当然啦，健身房也会划一个价格底线，以防过度降价影响整体收益。美国著名的planet fitness就是10美金一个月会费）<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a369dada69d794086365c110de72e1ef_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"684\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic4.zhimg.com/v2-a369dada69d794086365c110de72e1ef_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;684&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"684\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic4.zhimg.com/v2-a369dada69d794086365c110de72e1ef_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a369dada69d794086365c110de72e1ef_b.jpg\"/><\/figure><p>当你砍到的价格和他们的价格底线接近时，他们会说去“申请一下”，假装打个电话，或者把经理叫过来帮着谈，让你觉得这个价格是他帮助你争取来的，非常不易，受到了特别照顾，这时你也很难再讲价，而且付费的意愿更强。<\/p><p>（如果你说没钱能不能下次，他们会想尽办法让你先付定金。我之前认识的一个教练告诉我，他曾经有个客户没带卡，他直接拿着pos机打车陪用户回家里拿卡付款！最后成交！<\/p><p>还有一次他一个客户说这个月实在没钱，定金也给不到，他就问他现在身上有多少钱，客户说有5元，结果5元也先收下！）<\/p><p>这种低价促销的结果就是，好地段的健身房高峰时人满为患，拥挤不堪，体验极差。但健身房并不在意你的体验，他们在意的是自己的业绩。会员多了，接下来的赚钱机会就多了，下一步的私教销售，才是健身房的主要盈利点，因为只有先把来的人的基数扩大，之后才有利可图。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-921563b1caad027227fd4d01997ca91f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1125\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-921563b1caad027227fd4d01997ca91f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1125&#39; height=&#39;750&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1125\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-921563b1caad027227fd4d01997ca91f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-921563b1caad027227fd4d01997ca91f_b.jpg\"/><\/figure><p>4. 私教会通过免费体测指出你身体各种问题，然后你为了解决身体问题，由于恐惧，会了解私教课。私教谈价格时的话术和你办卡时差不多，“我和主管请示一下”、“你不要跟别的客户说”。<\/p><p>总之都是让你觉得这个优惠是来之不易的，错过就没了。<\/p><p>卖课套路就是买得多送得多，买50节送20节，买100节送50节。他们并不在意课程单价是多少钱，只在意一次性能收上来多少钱。这样他们能更快的收回钱扩张。<\/p><p>而且，他们知道你办的卡、买的课基本用不完，也不会再来，所以一定要在第一次想办法让你付更多的钱。也就是一种单次博弈。<\/p><p>我周围有私教就一次性给用户开过10万元的单，据说上海健身房有个私教开过60万的单。<\/p><p>这么多课很多人在有效时间内根本用不完。所以即便课程单价看起来便宜，但实际上并不便宜！<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-aff49a9cc9f60661929352acd2777902_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"865\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb\" width=\"865\" data-original=\"https://pic3.zhimg.com/v2-aff49a9cc9f60661929352acd2777902_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;865&#39; height=&#39;344&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"865\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"865\" data-original=\"https://pic3.zhimg.com/v2-aff49a9cc9f60661929352acd2777902_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-aff49a9cc9f60661929352acd2777902_b.jpg\"/><\/figure><p><\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic4.zhimg.com/v2-f5f63cee37c8d86ec3597f781dcba38a_r.jpg",
+    "title": "（健身房内幕）【为什么健身房总在打折？私教课赠送这么多？】",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1607921172,
+    "is_labeled": false,
+    "excerpt": "我有些学员跟着网上的瘦腿课程，比如帕梅拉练了一段时间，腿一点没瘦，问我怎么办？ <b>1. 首先，很多的健身博主发布自己的练腿视频，很多人看着他们的大长腿就去跟着练，但是一个人腿瘦是天生的，真的不是练腿练出来的。<\/b>比如帕梅拉的腿天生就是很瘦的，对她自…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 336782670,
+    "voteup_count": 8,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/336782670",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1607921172,
+    "content": "<p>我有些学员跟着网上的瘦腿课程，比如帕梅拉练了一段时间，腿一点没瘦，问我怎么办？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>1. 首先，很多的健身博主发布自己的练腿视频，很多人看着他们的大长腿就去跟着练，但是一个人腿瘦是天生的，真的不是练腿练出来的。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f7689ab97ee289a373f4e6abdff65ad7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"864\" data-rawheight=\"506\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-f7689ab97ee289a373f4e6abdff65ad7_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;864&#39; height=&#39;506&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"864\" data-rawheight=\"506\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-f7689ab97ee289a373f4e6abdff65ad7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f7689ab97ee289a373f4e6abdff65ad7_b.jpg\"/><\/figure><p>比如帕梅拉的腿天生就是很瘦的，对她自己来说她做不做腿部训练都一样，但如果你是肌肉腿或者是肥胖，那么你应该避免做帕梅拉高强度的腿部力量训练，尤其是包含跳跃和较多屈膝的动作，否则腿肌肉会更紧绷。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>减肌肉腿的方法是少做腿部力量训练，练腿根本不可能让腿变得更细，因为无论是你负重还是自重训练，腿部的肌肉都有在发力，围度是不可能变得更细的，不变粗已经是不错了。你想你怕你的手臂变粗，所以你怕做俯卧撑，那现在你想腿变细，你又在拼命做腿部训练，这不是自相矛盾了吗？<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d507c94b657f9b75aa11d4fcfc08528f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic4.zhimg.com/v2-d507c94b657f9b75aa11d4fcfc08528f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;549&#39; height=&#39;302&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"549\" data-original=\"https://pic4.zhimg.com/v2-d507c94b657f9b75aa11d4fcfc08528f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d507c94b657f9b75aa11d4fcfc08528f_b.jpg\"/><\/figure><p>是，有的人说帕梅拉的腿部训练是自重训练，应该不会粗腿把？错，自重你做的次数多了肌肉力竭，肌肉充血当然就会变强变粗。还是同样例子，我们男生做俯卧撑，也是自重做到力竭，那胸照样变大了呀，对吧？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>除非你是经常练习长跑，比如马拉松半马这样的低强度有氧运动，久而久之，腿可能会慢慢变细一些，因为这类运动需要的是肌耐力。但是一般的女生哪有几个经常练习十几公里长跑的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>2. 如果你的腿本来就挺细长但是缺乏肌肉线条，这个时候你练腿是可以让腿显得更紧致好看的，但是腿围肯定不会减少。所以，如果你怕腿部变粗，那就应该尽量避免腿部力量训练，包括负重、快速的跑跳。不练腿才是真正不让腿更粗的方法，实在想练腿怕粗就用自重方法练腿。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>其次，还可能是错误做法：如果下蹲直接将双腿向外分开 容易形成 大腿向内转 小腿向外转 导致膝盖内扣和足部塌陷，形成 大腿外突 假胯宽 小腿外翻 肌肉腿等等。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-63ced8c45850fa4f8ce11ee831e00e95_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"417\" data-rawheight=\"341\" class=\"content_image\" width=\"417\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;417&#39; height=&#39;341&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"417\" data-rawheight=\"341\" class=\"content_image lazy\" width=\"417\" data-actualsrc=\"https://pic2.zhimg.com/v2-63ced8c45850fa4f8ce11ee831e00e95_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>3. 多用泡沫轴按摩放松以及拉伸腿部。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>4. 如果想让腿看起来更加细长，可以通过提高上臀和下臀的臀线，会从视觉上拉长腿部。什么意思呢？比如看看这个图，左边的下臀线和右边的下臀线相比更加靠上，所以同样的腿长情况下，下臀线越靠上，腿显得越长。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7a54cf9326553bd1cec4754e39006a84_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1007\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb\" width=\"1007\" data-original=\"https://pic1.zhimg.com/v2-7a54cf9326553bd1cec4754e39006a84_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1007&#39; height=&#39;548&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1007\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1007\" data-original=\"https://pic1.zhimg.com/v2-7a54cf9326553bd1cec4754e39006a84_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7a54cf9326553bd1cec4754e39006a84_b.jpg\"/><\/figure><p>可以通过孤立练习上臀来达到提高臀线，拉长腿部的目的。只有上下臀线都往上移了，才会显得臀翘和腿长。推荐下面这个动作，每组每边做12次，3组。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a778a14bb83d75cd5bea12aba5a20016_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"414\" data-rawheight=\"390\" class=\"content_image\" width=\"414\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;414&#39; height=&#39;390&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"414\" data-rawheight=\"390\" class=\"content_image lazy\" width=\"414\" data-actualsrc=\"https://pic3.zhimg.com/v2-a778a14bb83d75cd5bea12aba5a20016_b.jpg\"/><\/figure><p>另外，要避免做大重量的深蹲，因为深蹲会练到整个股后肌群，容易粗腿和降低下臀线。<\/p><p>按照上面的几个方法，你的腿至少不会变得更粗了。<\/p><p><br/> <\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic2.zhimg.com/v2-57fe7b55799ca3878488939118925e36_r.jpg",
+    "title": "练了很多瘦腿课，腿一点没瘦！？到底怎么才能瘦腿？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1604592094,
+    "is_labeled": false,
+    "excerpt": "最近，刷到了一组令人惊讶的数据： 据世界卫生组织调查结果表明， <b>2019 年，全世界健康的人只占 5%，患病的人占 20%，还有 75% 的人都处于亚健康状态。<\/b> 而进一步研究发现： <b>个人行为与生活方式因素对健康的影响占到 60%，环境因素对健康的影响占到 17%。<\/b> 其…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 275027727,
+    "voteup_count": 6,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/275027727",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1604592094,
+    "content": "<p>最近，刷到了一组令人惊讶的数据：<br><\/p><p>据世界卫生组织调查结果表明，<b>2019 年，全世界健康的人只占 5%，患病的人占 20%，还有 75% 的人都处于亚健康状态。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7897b6873ceec3b490bd40e2c1d5a1a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-7897b6873ceec3b490bd40e2c1d5a1a6_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='720'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-7897b6873ceec3b490bd40e2c1d5a1a6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7897b6873ceec3b490bd40e2c1d5a1a6_b.jpg\"><\/figure><p><br><\/p><p>而进一步研究发现：<b>个人行为与生活方式因素对健康的影响占到 60%，环境因素对健康的影响占到 17%。<\/b><\/p><p><br><\/p><p>其中中国影响健康的危险因素还包括：<b>饮食风险因素导致的疾病负担占到 15.9%。心理因素抑郁症患病率为 2.1%，焦虑障碍患病率达 4.98%。<\/b><\/p><p><br><\/p><p>一个健康的人，可以有无数个愿望；但一个不健康的人，只有健康一个愿望。<\/p><p><br><\/p><p>所以，小时酱特别整理了一份“健康书单”，从饮食、睡眠、运动等方面带你直面健康问题，学习科学知识，破解谣言误区，找到应对方法。<\/p><p><br><\/p><p><b>NO.1<\/b><\/p><p><b>《薄世宁医学通识讲义》<\/b><\/p><p><b>薄世宁<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-053644641a0fb5a9bc2ccf9767d0b326_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-053644641a0fb5a9bc2ccf9767d0b326_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1096'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-053644641a0fb5a9bc2ccf9767d0b326_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-053644641a0fb5a9bc2ccf9767d0b326_b.jpg\"><\/figure><p><br><\/p><p><b>1￥CAQZc8R7pZh$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>丰富医学认知，建立医学思维。<\/p><p><br><\/p><p>人的一生，难免要面对疾病与生命的诘问，就医、问诊、治疗…...对于绝大多数而言，是盲目机械地“遵医嘱”，带着焦虑和疑惑被动参与到治疗中。<\/p><p><br><\/p><p><b>“病” “症”不分，与医生沟通困难，不能准确表达问题，生病后陷入悲观和恐慌都屡见不鲜。<\/b><\/p><p><br><\/p><p>这一切都源于对疾病认识不清、缺乏最基本的医学常识。这本书能让你在短时间内丰富对医学的认知并建立起医学思维。<b>无论对于你自己还是家人的健康观，都将有颠覆式的影响。<\/b><\/p><p><br><\/p><p><b> <\/b><\/p><p>1￥CAQZc8R7pZh$/<\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p><b>NO.2<\/b><\/p><p><b>《食物的逆袭》<\/b><\/p><p><b>云无心 <\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-53a2fa558225ccffcefb8f66b68227f8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1097\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-53a2fa558225ccffcefb8f66b68227f8_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1097'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1097\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-53a2fa558225ccffcefb8f66b68227f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-53a2fa558225ccffcefb8f66b68227f8_b.jpg\"><\/figure><p><br><\/p><p><b>1￥rNekc8RilvE$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>带你走出关于食物的既定思维，提供食品保健的真正干货。<\/p><p><br><\/p><p><b>那些我们所熟悉的食物其实并非生来如此，在陪伴人类的漫长岁月里，它们有着属于自己的进化史，<\/b>很多食物其实在最初是被世人所误解的，后来才逐渐被大众所接受和认可。<\/p><p><br><\/p><p>人类一步步把野草驯化成果腹的粮食，“催熟”在打破水果储藏时空限制的同时也被投以质疑的目光。<\/p><p><br><\/p><p>为了安全和健康，人类在食物上不断探索，有的成功了，也有的失败了。<b>云无心带你进一步了解身边的食物，打破你对食物的常识误区和认知壁垒，打开全新视野。<\/b><\/p><p><br><\/p><p><b> <\/b><\/p><p>1￥rNekc8RilvE$/<\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p><b>NO.3<\/b><\/p><p><b>《戒糖：改变一生的健康饮食法》<\/b><\/p><p><b>初夏之菡<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ada4b031d3e64146a59b3303c81faec3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ada4b031d3e64146a59b3303c81faec3_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1096'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ada4b031d3e64146a59b3303c81faec3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ada4b031d3e64146a59b3303c81faec3_b.jpg\"><\/figure><p><br><\/p><p><b>1￥uR5ccis2qI4$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>一步一步，科学摆脱甜蜜诱惑。<\/p><p><br><\/p><p>你的终极戒糖之书，手把手教你一步步实现健康饮食；知乎大 V、中&amp;澳注册营养师初夏之菡（罗晓）全新力作；单糖、二糖、多糖、寡聚糖、代糖…让你一次搞懂不同糖的区别和联系，究竟应该戒掉什么糖。<\/p><p><br><\/p><p><b>主食和碳水化合物要不要戒断？“生酮饮食法”要不要采用？是不是只能吃低 GI 食物？<\/b><\/p><p><br><\/p><p>作者综合多年营养学研究、从业经验，以“戒糖”为核心，从科学理解糖在体内的代谢原理，到淀粉、主食、碳水化合物之间的关系，再到糖的形式和来源，全面梳理戒糖的底层逻辑与背后原理，为你积累“戒糖”基础知识。<\/p><p><br><\/p><p><b> <\/b><\/p><p>1￥uR5ccis2qI4$/<\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p><b>NO.4<\/b><\/p><p><b>《4 分钟极速减脂》<\/b><\/p><p><b>刘洹 <\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6fdd8db7cb660a1b8cf432c4a4a367c3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6fdd8db7cb660a1b8cf432c4a4a367c3_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1096'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6fdd8db7cb660a1b8cf432c4a4a367c3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6fdd8db7cb660a1b8cf432c4a4a367c3_b.jpg\"><\/figure><p><br><\/p><p><b>1￥8FaKcisXQga$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>让减肥变得可持续、不痛苦。<br><\/p><p>本书是由高效健身倡导者刘洹为忙碌的上班族量身定制的减肥指南！每天 4 分钟，练好、吃对，你也能收获理想身材。帮你厘清减肥底层逻辑，打破常见的认知误区，粉碎减肥谣言。<\/p><p><br><\/p><p><b>每天 4 分钟，繁忙上班族也能收获理想身材！<\/b>10 套 4 分钟燃脂塑形动作详解，图文结合，更有配套视频解析，剖析减肥底层原理：能量测算、减肥本质、减肥路径…...打破减肥认知误区。<\/p><p><br><\/p><p><b>轻了是不是就是瘦了？喝水都会胖的人真的存在吗？你想知道的问题，都有答案。<\/b><\/p><p><br><\/p><p><b> <\/b><\/p><p>1￥8FaKcisXQga$/<\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p><b>NO.5<\/b><\/p><p><b>《再见，敏感肌！<\/b><\/p><p><b>——健康皮肤养成指南》<\/b><\/p><p><b>清单编辑部 <\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3177b7804b5bc6e3bb324bd0710a8153_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-3177b7804b5bc6e3bb324bd0710a8153_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1096'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-3177b7804b5bc6e3bb324bd0710a8153_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3177b7804b5bc6e3bb324bd0710a8153_b.jpg\"><\/figure><p><br><\/p><p><b>1￥8V4ac8RiK4A$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>第一本针对敏感肌问题的科普读物。<\/p><p><br><\/p><p>《再见，敏感肌——健康皮肤养成指南》是「清单」MOOK 的首期。<\/p><p><br><\/p><p><b>从人人都有可能遭遇的皮肤敏感问题切入，<\/b>关注护肤的科学方法、实用知识和健康常识。<\/p><p><br><\/p><p>全书共分四大内容板块：<\/p><p><br><\/p><ul><li>原因：介绍皮肤屏障的概念，以及日常生活中可能会导致皮肤从健康变敏感的不当行为。<\/li><li><b>自救：系统、深入地介绍科学的基本护肤理念和方法，设计符合敏感时期的特殊护肤方案。<\/b><\/li><li>进阶：进一步介绍功效性护肤品的知识、法规背景和历史渊源。<\/li><li><b>养成：从生活方式的角度，介绍它们和健康皮肤之间的关系。<\/b><\/li><\/ul><p><br><\/p><p><b> <\/b><\/p><p>1￥8V4ac8RiK4A$/<\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p><b>NO.6<\/b><\/p><p><b>《再见，睡不好！<\/b><\/p><p><b>——找到你的身心开关》<\/b><\/p><p><b>清单编辑部<\/b><\/p><p><br><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9be5df3c64e3505ef8c64bcba54e2be9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-9be5df3c64e3505ef8c64bcba54e2be9_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1096'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1096\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-9be5df3c64e3505ef8c64bcba54e2be9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9be5df3c64e3505ef8c64bcba54e2be9_b.jpg\"><\/figure><p><b>1￥xanlc8R8cuu$/<\/b><\/p><p>完整复制 上面淘口令，打开手机淘宝即可购买<\/p><p><br><\/p><p>治愈你的睡眠，让身体回归本能.<\/p><p><br><\/p><p>《再见，睡不好——找到你的身心开关》是「清单」MOOK 的第二期。<\/p><p><br><\/p><p>从越来越多人被困扰的睡眠问题入手，厘清睡眠问题的本质，介绍改善睡眠的方法（包括压力和环境），<b>同时科普一些更深入的睡眠障碍的原因和本质（包括呼吸问题与睡眠障碍的关系，一些新型材料在寝具里的应用）。<\/b><\/p><p><br><\/p><p>除了一些科普知识外，还会采访一些睡眠门诊的医生、探访睡眠中心等故事。希望所有深受睡眠问题困扰的人，都能通过这本书重新找回理想的睡眠。<\/p><p><br><\/p><p><b>露冷霜重，望君珍重。<\/b><\/p>",
+    "comment_count": 2,
+    "image_url": "https://pic4.zhimg.com/v2-53cce6807b0a70a55899561f3a2fae21_r.jpg",
+    "title": "露冷霜重时，给你准备了一份健康书单",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1604591115,
+    "is_labeled": false,
+    "excerpt": "<i><b>1. <\/b><\/i>首先，腿长的人是因为他们本身下肢腿骨的长度就更长，相比上肢比例来说就会显得腿更长。如果一个人还未成年，那么通过跳跃、游泳、踢腿和腿部拉伸等还可以促使大小腿骨再自然长长一些的。如果已经成年了想直接让大腿和小腿骨变长是不可能的，除非去做断…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 275000613,
+    "voteup_count": 15,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/275000613",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1604591115,
+    "content": "<p><i><b>1.  <\/b><\/i>首先，腿长的人是因为他们本身下肢腿骨的长度就更长，相比上肢比例来说就会显得腿更长。如果一个人还未成年，那么通过跳跃、游泳、踢腿和腿部拉伸等还可以促使大小腿骨再自然长长一些的。如果已经成年了想直接让大腿和小腿骨变长是不可能的，除非去做断骨延长手术了，那可以额外增加几公分，但风险和费用巨大，基本不用考虑。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>2. <\/b><\/i> 从后天来讲，如果想让腿更加修长，先需要让腿变得更加直，腿部骨骼的排列好，自然就会看起来越长。因此，如果腿型有问题，比如O/X型腿或者是膝超伸，甚至是扁平足，都会导致腿不够直。大概可以看一下这张图。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8a41ad2afdb8af6f67762fd4869f4873_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"577\" data-rawheight=\"402\" class=\"origin_image zh-lightbox-thumb\" width=\"577\" data-original=\"https://pic4.zhimg.com/v2-8a41ad2afdb8af6f67762fd4869f4873_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;577&#39; height=&#39;402&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"577\" data-rawheight=\"402\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"577\" data-original=\"https://pic4.zhimg.com/v2-8a41ad2afdb8af6f67762fd4869f4873_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8a41ad2afdb8af6f67762fd4869f4873_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>一般腿型有问题的人会有先天骨骼的问题，同时也有后天习惯不好导致的腿部肌肉不平衡，没有办法把腿部骨骼维持在中立的位置。腿型问题严重应该先去医院做检查拍片，只有轻微的腿型问题可以通过日常训练来纠正。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>这里教大家一个比较简便且好记的腿型改善方法，就是自己是什么腿型，就在这个相反的腿型动作基础上去做勾脚尖。<\/p><p>比如O型腿就把腿摆在偏X型腿的姿势，然后向上勾脚尖，同时尽量夹紧大腿内侧，每天有空就可以，每次保持30秒。长期这样可以把腿从O型的位置给拉回中间一点。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-aa2955702124805d4cb7a38443d2f38c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"738\" class=\"content_image\" width=\"415\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;415&#39; height=&#39;738&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"738\" class=\"content_image lazy\" width=\"415\" data-actualsrc=\"https://pic1.zhimg.com/v2-aa2955702124805d4cb7a38443d2f38c_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>X型腿、扁平足以及OX型腿就在偏O型腿的姿势下，向上勾脚尖，注意要夹紧臀部，想象把大腿骨给分开一些。一般扁平足和X型腿同时发生的现象比较多，因为膝内扣和足部塌陷往往是互相的。OX型腿一般会参考X型腿方法矫正，同时会用泡沫轴放松小腿外侧过紧张的肌肉。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a9867779bed65070a8090bbba73fbe06_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"706\" class=\"content_image\" width=\"413\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;706&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"706\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic3.zhimg.com/v2-a9867779bed65070a8090bbba73fbe06_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>还有一种常见的就是膝超伸，膝盖锁死，向后绷直。主要原因是大腿后侧肌肉相对大腿前侧和小腿后侧弱了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f3fc7c733f5d6167e87a6d2fd3f76b2c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"325\" class=\"content_image\" width=\"400\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;325&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"325\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic1.zhimg.com/v2-f3fc7c733f5d6167e87a6d2fd3f76b2c_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>可以通过下面动作改善。腿弯曲，脚尖勾起，臀和大腿后侧发力向上抬腿到最高处，重复10次，做3组，能加强大腿后侧。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-db9a1282cb5bee5b772aa942adedf75d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"802\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-db9a1282cb5bee5b772aa942adedf75d_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;802&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"802\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-db9a1282cb5bee5b772aa942adedf75d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-db9a1282cb5bee5b772aa942adedf75d_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>3.  <\/b><\/i>腿不直的问题改善后，接下来要想办法改善腿粗的问题。腿越细看起来自然比例是更长的。如果是身材胖的梨型身材的人，那么下肢臀腿堆积赘肉是需要通过饮食和运动综合降低体脂，大腿和臀腿的赘肉会减少很明显，腿看起来会长很多。具体减肥的方法我的书《4分钟极速减脂》很详细了，这里不赘述。<\/p><p><i><b>4.  <\/b><\/i>如果是肌肉型的粗腿说明平时走、站或者运动腿部参与发力过多，一定要减少腿部的力量训练，尤其是负重深蹲或者负重弓步蹲这类膝关节参与的动作要避免，否则会越练越粗。如果实在想练可以采用自重做多次数，但说实话，练腿是不会让腿变得更细的。<\/p><p>另外，肌肉型的腿需要筋膜松懈和拉伸：<\/p><p>-首先是用泡沫轴或者筋膜枪去进行腿部肌肉放松，让肌肉筋膜松懈，注意要感受到疼痛感才有效果，每边小腿持续按摩1分钟，然后大腿前侧后侧每边各放松1分钟。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-78152a33febf44af520f4e35f9a9883f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"645\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb\" width=\"645\" data-original=\"https://pic4.zhimg.com/v2-78152a33febf44af520f4e35f9a9883f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;645&#39; height=&#39;382&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"645\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"645\" data-original=\"https://pic4.zhimg.com/v2-78152a33febf44af520f4e35f9a9883f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-78152a33febf44af520f4e35f9a9883f_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>-然后是进行小腿的拉伸，拉伸目的是让紧张肌肉恢复长度和弹性，拉直小腿那么肌肉围度相应也就减小了一点了。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4ebe0c70f7e323a39c94aed1e422ff12_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"566\" data-rawheight=\"582\" class=\"origin_image zh-lightbox-thumb\" width=\"566\" data-original=\"https://pic3.zhimg.com/v2-4ebe0c70f7e323a39c94aed1e422ff12_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;566&#39; height=&#39;582&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"566\" data-rawheight=\"582\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"566\" data-original=\"https://pic3.zhimg.com/v2-4ebe0c70f7e323a39c94aed1e422ff12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4ebe0c70f7e323a39c94aed1e422ff12_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>小腿和大腿后侧拉伸，一脚在前一脚在后，后脚跟着地并且腿伸直，身体向前倾感受后腿小腿拉伸并保持。每边30秒，做2组。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>大腿前侧拉伸，单膝跪地，手拉住脚踝身体向前，保持骨盆正直，感受大腿前侧拉伸，每边30秒，做2组。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5e1286b19637109d99cc1f0ee8d41bb9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"581\" data-original=\"https://pic2.zhimg.com/v2-5e1286b19637109d99cc1f0ee8d41bb9_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;581&#39; height=&#39;339&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"581\" data-original=\"https://pic2.zhimg.com/v2-5e1286b19637109d99cc1f0ee8d41bb9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5e1286b19637109d99cc1f0ee8d41bb9_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>一个月避免腿部力量训练和做好腿部肌肉放松拉伸，腿围会细几公分的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>5.  <\/b><\/i>把上下臀练翘会从视觉大幅拉长腿部。图左边的下臀线和右边的下臀线相比更加靠上，所以同样的腿长情况下，下臀线越靠上，腿显得越长。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1603992489ff0b829f9c8102007adb26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1007\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb\" width=\"1007\" data-original=\"https://pic3.zhimg.com/v2-1603992489ff0b829f9c8102007adb26_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1007&#39; height=&#39;548&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1007\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1007\" data-original=\"https://pic3.zhimg.com/v2-1603992489ff0b829f9c8102007adb26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1603992489ff0b829f9c8102007adb26_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>可以通过孤立练习上臀来达到提高臀线，拉长腿部的目的。可以做俯撑弹力带后抬腿，俯撑在垫上，手持弹力带勾住脚跟，呼气向上、向后抬腿，收缩臀部，再吸气返回，全程要控制弹力带。每组每边做12次，3组。如果没有弹力也可以不用。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f9dba688d693b76eddaf994766fc8cb4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic1.zhimg.com/v2-f9dba688d693b76eddaf994766fc8cb4_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic1.zhimg.com/v2-f9dba688d693b76eddaf994766fc8cb4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f9dba688d693b76eddaf994766fc8cb4_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>还要避免做大重量的深蹲，容易降低下臀线。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>6.  <\/b><\/i>如果有小腹突出和骨盆前倾一定要改善。这个体态会让骨盆向前“倒水”，整个人从侧面和正面看起来由于上肢的比例往下了，腿部就会看起来短了一节。要时刻提醒自己收紧腹部，把骨盆稳定在中立位。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ccc6d65e335b746ab8414dab9702cce8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"766\" data-rawheight=\"622\" class=\"origin_image zh-lightbox-thumb\" width=\"766\" data-original=\"https://pic1.zhimg.com/v2-ccc6d65e335b746ab8414dab9702cce8_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;766&#39; height=&#39;622&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"766\" data-rawheight=\"622\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"766\" data-original=\"https://pic1.zhimg.com/v2-ccc6d65e335b746ab8414dab9702cce8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ccc6d65e335b746ab8414dab9702cce8_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>可以再做臀桥改善。平躺，腿弯曲，尽量靠近身体，呼气臀部发力向上顶到最高处，感受臀部和下背的收缩，保持片刻，再吸气回到原位。每天做 3 组，每组15 次。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-01092742f2394b8e16c3491587685490_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"686\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb\" width=\"686\" data-original=\"https://pic1.zhimg.com/v2-01092742f2394b8e16c3491587685490_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;686&#39; height=&#39;325&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"686\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"686\" data-original=\"https://pic1.zhimg.com/v2-01092742f2394b8e16c3491587685490_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-01092742f2394b8e16c3491587685490_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>7.  <\/b><\/i>不要跷任何形式的二郎腿，跷二郎腿会压迫到血管和淋巴，造成腿部循环受阻，也可能导致下肢浮肿。还可能导致腿型不直的问题。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>8.  <\/b><\/i>如果有活动可以穿跟高一些的鞋子，以及衣服上带腰带，会显得腿比例更长。<\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic3.zhimg.com/v2-2e49279dc39e262ee99f462e53f847a6_r.jpg",
+    "title": "【大长腿必看8招！】如何拥有大长腿？超全走心分享！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1604462134,
+    "is_labeled": false,
+    "excerpt": "首先，关节咔咔响属于关节弹响，分为生理性弹响和病理性弹响。 比如健身的时候关节咔咔地响属于相当常见的情况，尤其是肩关节、膝关节、肘关节和踝关节。我们平时掰手指头也会有手指关节的响声，很多人还很喜欢掰手指关节响的感觉，觉得是手指放松。 我们去…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 273320607,
+    "voteup_count": 11,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/273320607",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1604462134,
+    "content": "<p>首先，关节咔咔响属于关节弹响，分为生理性弹响和病理性弹响。<\/p><p>比如健身的时候关节咔咔地响属于相当常见的情况，尤其是肩关节、膝关节、肘关节和踝关节。我们平时掰手指头也会有手指关节的响声，很多人还很喜欢掰手指关节响的感觉，觉得是手指放松。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-597dd944f73505a418cdfb21da654643_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb\" width=\"512\" data-original=\"https://pic4.zhimg.com/v2-597dd944f73505a418cdfb21da654643_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;512&#39; height=&#39;512&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"512\" data-original=\"https://pic4.zhimg.com/v2-597dd944f73505a418cdfb21da654643_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-597dd944f73505a418cdfb21da654643_b.jpg\"/><\/figure><p>我们去按摩店师傅会扭我们的脖子和头左右要响那么一下，有响声才是正常。<\/p><p>因此，如果是只在运动时关节发出响声，并没有什么疼痛和不适感，那大多数都属于生理性弹响，没什么问题，可以正常训练。因为关节处在一段时间静止后，突然收到牵拉和屈伸会发出这种响声，可能是关节腔内的气泡爆裂的清脆声。<\/p><h2><b>如何确定自己是生理性弹响可以放心呢？有几个条件：<\/b><\/h2><p>- 弹响一次后不能短时间再弹响，可能要过个十几分钟<\/p><p>- 只发生在关节突然受力曲折的时候<\/p><p>- 弹响前后都没有疼痛和不舒服感，反而有放松感<\/p><p>- 响声是清脆的<\/p><p>如果在运动过程中出现持续的咔咔响但是不痛可能是由于关节液分泌不足导致的骨与骨之间的摩擦，这种摩擦短时间是没有什么问题的，但如果时间长可能会导致关节的磨损，比如膝关节的髌骨软化。<\/p><p><b>解决办法：<\/b>运动前可以延长一些有氧热身的时间，比如之前是5分钟，现在做到10分钟；另外，在做一些关节的活动，比如肩关节环绕、慢速高抬腿、膝部绕圈、迷你深蹲等，可以每个动作做1分钟。其实中小学体育课的那种热身运动其实都可以，做5分钟。这些都能润滑膝关节，减少摩擦。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>还有可能是因为身体体态不够直，导致力线不正，肌腱、韧带或者筋膜太紧，肌肉弹性和柔韧性不足，运动的时候这些软组织划过骨头凸起部分也会有响声。比如X/O型腿的人在曲膝下蹲的时候膝盖更容易有响声和磨损；有圆肩含胸的人肩关节活动的时候容易有磨损响声。<\/p><p><b>解决办法：<\/b>改善自己的不良体态，我的书《每周健身两小时》有详细讲解，这里不赘述。另外经常通过泡沫轴和拉伸放松肌肉也会有改善。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>如果不是上面的几种弹响，而是运动中持续响声并伴有疼痛不适感，那么就应该是病理性弹响，这种就需要去医院检查，骨科和物理治疗都可以看看，但不要去按摩店看。<\/p><p>如果运动中已经出现了不适的弹响，不要非要把计划完成继续进行了。我肩关节之前受伤就是这样，健身的时候有疼痛了，但没练完，而且旁边有小伙伴看着，我不好意思停，结果继续练导致受伤。<\/p><p>如果实在想练可以把重量降低，或者换到一个没有弹响和不舒服的角度练也行，比如肩上推举，手完全打开推的时候肩会响，但是45度打开就不会，那么就用45度做。但最好别逞强。<\/p><p>如果已经去医院检查发现问题，医生说要休息，但自己又怕影响健身效果，可以采取单侧训练的方法。就是受伤侧休息，另一侧训练。有研究表明单侧训练另一侧的力量也会提高一些。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>知乎私我“666”，获取299元健身塑形课程<\/p>",
+    "comment_count": 1,
+    "image_url": "https://pic1.zhimg.com/v2-5b27cf3fcefda61be481b16a2d8cc239_r.jpg",
+    "title": "健身的时候，关节总是咔哧响，有问题吗？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1604126468,
+    "is_labeled": false,
+    "excerpt": "虽然已经是四字开头的年纪了，但对于美的追求我是一直没有放弃的！我结婚生女都比较晚。在那之前和老公一起拼事业，享受生活，全世界旅游。身边的朋友都用Glamorous 来形容我。 我不是那种亚洲人中的标准身材，最瘦的时候也要接近120斤了。但那个时候我的身…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 270595198,
+    "voteup_count": 6,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/270595198",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1604126468,
+    "content": "",
+    "comment_count": 1,
+    "image_url": "https://pic3.zhimg.com/v2-abd3a9f55c1f2491ba96c02e635ab829_r.jpg",
+    "title": "该内容暂无法显示",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": true,
+      "reason": "文章被建议修改：垃圾广告信息",
+      "title": "为什么文章会被建议修改",
+      "url": "zhihu://questions/24752645",
+      "tip": "作者修改内容通过后，文章会重新显示。",
+      "reason_id": 30002
+    },
+    "is_normal": false
+  }, {
+    "updated": 1603202224,
+    "is_labeled": false,
+    "excerpt": "<b>1 只有腰部赘肉堆积除了控制饮食，必须运动<\/b> 这个问题不仅仅困扰很多女生学员，也曾经困扰过我。很多人都是BMI属于正常范围，但是就只有腰部赘肉堆积，尤其是久坐不动的办公族。 原因是疏于饮食和锻炼导致的腰腹肌肉松垮，再加上腹部本来相对于其他部位更容…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 267152397,
+    "voteup_count": 18,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/267152397",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1603202224,
+    "content": "<p><b>1 只有腰部赘肉堆积除了控制饮食，必须运动<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>这个问题不仅仅困扰很多女生学员，也曾经困扰过我。很多人都是BMI属于正常范围，但是就只有腰部赘肉堆积，尤其是久坐不动的办公族。<\/p><p>原因是疏于饮食和锻炼导致的腰腹肌肉松垮，再加上腹部本来相对于其他部位更容易囤积肥肉，所以视觉上腰部有赘肉。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>身体不能通过局部锻炼减掉局部脂肪，但如果脂肪主要集中在腰腹部，只要再瘦几斤，基本掉的脂肪也都来自腰部赘肉。因此，可以通过降低高糖和高油食物的摄入产生热量缺口，进行减脂，再搭配肌肉训练，进行塑形。<\/p><p>这里要提醒一下，依据我的经验，只有腰部胖的人光控制饮食效果是不明显的，一定要结合运动，尤其是腹部训练，这跟减肥有点不同。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>2 适合的运动<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>平板支撑、呼啦圈等等可以锻炼腰腹肌肉，但对有的人效果不明显，做的不规范也容易伤腰。下面推荐几个更好躺在床上可以锻炼的动作。每天睡前练一下。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>①蜷身卷腹平躺双手双脚伸直，呼气的同时，卷腹向上到肩胛骨离开地面，腿弯曲 90 度，双手触腿，保持片刻，感受腹部肌肉收缩，再吸气、回到原位。做 3 组，每组 15 次。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e2c499202fc84a298a33073e0475a36a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"418\" data-rawheight=\"239\" class=\"content_image\" width=\"418\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;418&#39; height=&#39;239&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"418\" data-rawheight=\"239\" class=\"content_image lazy\" width=\"418\" data-actualsrc=\"https://pic3.zhimg.com/v2-e2c499202fc84a298a33073e0475a36a_b.jpg\"/><\/figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-98353049672280a3716a5ba772fb0917_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"407\" data-rawheight=\"238\" class=\"content_image\" width=\"407\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;407&#39; height=&#39;238&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"407\" data-rawheight=\"238\" class=\"content_image lazy\" width=\"407\" data-actualsrc=\"https://pic4.zhimg.com/v2-98353049672280a3716a5ba772fb0917_b.jpg\"/><\/figure><p>②抬腿顶天平躺抬起双腿，呼气的同时，下腹发力向上举腿顶向天空，然后吸气、慢慢下放。做 3 组，每组 15 次。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0a4c27a64fb5c90b75201e48775db132_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"484\" data-original=\"https://pic3.zhimg.com/v2-0a4c27a64fb5c90b75201e48775db132_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;484&#39; height=&#39;282&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"484\" data-original=\"https://pic3.zhimg.com/v2-0a4c27a64fb5c90b75201e48775db132_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0a4c27a64fb5c90b75201e48775db132_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>③胯下击掌100次，抬头挺胸，高抬腿，双手在腿下击掌，然后换腿再次击掌。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d1edbe8be78a7294083263e0fb09ac83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"589\" data-rawheight=\"341\" class=\"origin_image zh-lightbox-thumb\" width=\"589\" data-original=\"https://pic4.zhimg.com/v2-d1edbe8be78a7294083263e0fb09ac83_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;589&#39; height=&#39;341&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"589\" data-rawheight=\"341\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"589\" data-original=\"https://pic4.zhimg.com/v2-d1edbe8be78a7294083263e0fb09ac83_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d1edbe8be78a7294083263e0fb09ac83_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>3 掌握随时收腹和腹式呼吸！<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>久坐族尤其要学会用肚子发力。白天随时保持腹部收紧的状态，无论是坐着、站着还是走路，都要挺直腰背、收腹，养成习惯。不要坐着就葛优摊，站着没一分钟就塌腰、骨盆前倾，一走路就弯腰驼背，这样核心力量总是处于放松状态，无法收紧、越来越松！<\/p><p>但注意，过度收腹也是有害的，保持30-40%的收腹状态即可。你可以试着用力吸腹到接近极限，然后放松60%，找到这个感觉。坚持一段时间，微微收腹就变成一个习惯了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>另外，每天早中晚吃饭前分别做三次腹式呼吸，可以激活腹横肌和腹部呼吸肌群，帮助找到肚子发力的感觉。具体做法可把手放在腹部感受起伏，用鼻子慢慢的深深的吸气，同时腹部渐渐的隆起，保持几秒钟，然后慢慢用嘴吐气，并感受腹部收紧，一分钟5-6次腹式呼吸，一次10分钟。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>4 注意平时的习惯<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>平时保持一些习惯：上下班能爬楼梯就不用电梯，增加运动量；上班期间吃完午饭后不要立即回工位坐下，先绕着办公楼走一圈。日常接电话时尽量走出办公室，边溜达边接。换一个小杯子，并且保证一天喝2L水，水帮助促进代谢，换成小杯子的目的是防止久坐，多起来几趟。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>坐姿也很重要！如果在书桌前办公，建议将椅子向前移，然后靠着椅背坐，让上身和大腿的角度打开在 90 度以上。不管是向前还是榻腰坐，肚子都处在很放松状态，不利于腹部肌肉的收紧。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-810912fe45f084735cf8b62b73270b1f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"464\" class=\"origin_image zh-lightbox-thumb\" width=\"454\" data-original=\"https://pic4.zhimg.com/v2-810912fe45f084735cf8b62b73270b1f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;454&#39; height=&#39;464&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"464\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"454\" data-original=\"https://pic4.zhimg.com/v2-810912fe45f084735cf8b62b73270b1f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-810912fe45f084735cf8b62b73270b1f_b.jpg\"/><\/figure><p>每天一斤蔬菜（推荐芹菜）、半斤水果、一到两拳头的粗粮不能少，保证足够的膳食纤维，加速肠道蠕动，防止便秘，让腹部看着大。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>PS，我自己开发的新版谷物高蛋白营养粥上线啦，已经有超过5000名减脂小伙伴在使用啦！<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8ebe13ac3474444a4203990335183012_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-8ebe13ac3474444a4203990335183012_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;693&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-8ebe13ac3474444a4203990335183012_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8ebe13ac3474444a4203990335183012_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>咨询了解欢迎私信，验证消息：“我要变瘦”<\/p><p><\/p>",
+    "comment_count": 1,
+    "image_url": "https://pic4.zhimg.com/v2-02c9596c6e4923a70194323759f2d3de_r.jpg",
+    "title": "哪都瘦，就是腰部有赘肉，怎么办？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1601782980,
+    "is_labeled": false,
+    "excerpt": "最近开始有不少学员留意到自己有肋骨外翻（突出）的问题，原因估计是因为自己瘦下来开始更关注体态了，并且瘦下来后肋骨的位置会更明显。实际上我自己也一直也有一点肋骨外翻问题，从小肋骨骨架就更大，以及以前更多是错误的挺胸收腹方式。经过自己有意识的…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 261619740,
+    "voteup_count": 36,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/261619740",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1601782746,
+    "content": "<p>最近开始有不少学员留意到自己有肋骨外翻（突出）的问题，原因估计是因为自己瘦下来开始更关注体态了，并且瘦下来后肋骨的位置会更明显。实际上我自己也一直也有一点肋骨外翻问题，从小肋骨骨架就更大，以及以前更多是错误的挺胸收腹方式。经过自己有意识的调整，已经改善了很多。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>首先，肋骨外翻是一种体态问题。主要是指第7-10根肋骨向外突出了。如图：<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f5a67b13e20c8057625c15461cb292eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"576\" data-original=\"https://pic4.zhimg.com/v2-f5a67b13e20c8057625c15461cb292eb_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;576&#39; height=&#39;461&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"576\" data-original=\"https://pic4.zhimg.com/v2-f5a67b13e20c8057625c15461cb292eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f5a67b13e20c8057625c15461cb292eb_b.jpg\"/><\/figure><p>如果穿上衣服后就是左边这样的。<br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7349bf98737bce4d35ddfbe89f44fcba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-7349bf98737bce4d35ddfbe89f44fcba_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;406&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-7349bf98737bce4d35ddfbe89f44fcba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7349bf98737bce4d35ddfbe89f44fcba_b.jpg\"/><\/figure><p>其实有肋骨外翻问题的人不在少数的，体型瘦的人会更容易看出肋骨外翻的状态。而体型胖一些的人会没有那么容易看出来，因为腹部脂肪高，厚厚的肉把突出的肋骨给盖住了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><h2><b>肋骨外翻的原因和解决办法<\/b><\/h2><p>除了先天骨骼原因之外，导致肋骨外翻的常见综合因素是腹壁肌群薄弱、骨盆前倾、呼吸模式不对和肩带活动度不够好。改善也要从这几个方面入手。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><ol><li><b>原因1：腹肌尤其是腹横肌和腹内外斜肌的肌力不够，不能很好把里面的肋骨给包裹住，会容易让肋骨突出。<\/b><\/li><\/ol><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4ed6baa2ce36f0dd918d642bab2786cc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-4ed6baa2ce36f0dd918d642bab2786cc_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;366&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-4ed6baa2ce36f0dd918d642bab2786cc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4ed6baa2ce36f0dd918d642bab2786cc_b.jpg\"/><\/figure><p>改善方法：增加腹横肌和腹斜肌的训练。动作1：平板支撑，把注意力集中在收紧腹部，每天3组，每组30秒。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-063be24670c37f10b264ccbeb51a8ba3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-063be24670c37f10b264ccbeb51a8ba3_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;472&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-063be24670c37f10b264ccbeb51a8ba3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-063be24670c37f10b264ccbeb51a8ba3_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>动作2：单侧交替肘触膝，集中锻炼一侧腹斜肌，然后换边。每天3组，每组30秒/边。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0d9d6982f7bbf1fb921becf9c1b43195_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"553\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-0d9d6982f7bbf1fb921becf9c1b43195_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;553&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"553\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-0d9d6982f7bbf1fb921becf9c1b43195_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0d9d6982f7bbf1fb921becf9c1b43195_b.jpg\"/><\/figure><p><b>2. 原因2：骨盆前倾姿势本身造成的胸廓位置的变化，长期的骨盆前倾使腹直肌拉长无力，而髂腰肌和下背肌肉紧张，从而使肋骨外翻。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-526de59f2117b9cddd650d0e410a7578_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"195\" data-rawheight=\"252\" class=\"content_image\" width=\"195\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;195&#39; height=&#39;252&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"195\" data-rawheight=\"252\" class=\"content_image lazy\" width=\"195\" data-actualsrc=\"https://pic1.zhimg.com/v2-526de59f2117b9cddd650d0e410a7578_b.png\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>改善方法：平时走路站立多收腹和夹紧屁股，刻意把骨盆稳定在中立位甚至刻意后倾骨盆，另外再做针对性的动作。<\/p><p>动作1：反向卷腹，抬起双腿夹紧到90度，肋骨下沉，用下腹慢慢把腿卷向身体，每天3组，每组12次。一定要保持肋骨下沉。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3491f4d888c16cbdb9996fbc75bfa83a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-3491f4d888c16cbdb9996fbc75bfa83a_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;703&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-3491f4d888c16cbdb9996fbc75bfa83a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3491f4d888c16cbdb9996fbc75bfa83a_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>动作2：下背部拉伸，身体尽量靠近腿，感受下背部的拉伸保持30秒，每天做2组。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-54437a91cd0fc8d081db444d08c7956b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-54437a91cd0fc8d081db444d08c7956b_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;514&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-54437a91cd0fc8d081db444d08c7956b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-54437a91cd0fc8d081db444d08c7956b_b.jpg\"/><\/figure><p><b>3. 原因3 呼吸模式有问题。<\/b>我们自然呼吸时横膈膜收缩，它会在胸腔中产生更多的空间，从而扩张肺部，这时肋骨是向四面八方打开的。但在异常的呼吸模式中（胸式呼吸），肋骨打开的方式是向胸前顶出，而没有向两侧及后侧展开，同时肋骨还会抬起，导致腹部呼吸肌功能减弱，肋骨压不下来。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>改善方法：改善呼吸模式，推荐一个动作：10秒呼吸法。自然躺在床上或者瑜伽垫上。鼻子吸气3秒，专注于扩大腹部，同时保持胸部和颈部的放松。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d060662d0f3db4166ed0a2e499491ebc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1044\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb\" width=\"1044\" data-original=\"https://pic1.zhimg.com/v2-d060662d0f3db4166ed0a2e499491ebc_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1044&#39; height=&#39;602&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1044\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1044\" data-original=\"https://pic1.zhimg.com/v2-d060662d0f3db4166ed0a2e499491ebc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d060662d0f3db4166ed0a2e499491ebc_b.jpg\"/><\/figure><p>然后再用嘴呼气 7 秒，在呼气的时候，双手按住肋骨外翻的位置，慢慢的向下推。<br/><\/p><p>一旦你掌握了腹部呼吸，就可以轻轻地收缩你的腹肌，做更大的呼吸，同时保持你的肋骨内收。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>4. 原因4 有些人在自然站立时，肋骨外翻不明显，但如果将双手伸直上抬至头顶，肋骨马上出现外翻。<\/b><\/p><p>这种现象是由于肩带活动度不足，通过胸廓的整体上抬来进行代偿。主要是胸肌过于紧张。<br/><\/p><p><b>改善方法：<\/b>单侧胸肌交替拉伸。拉伸过程中一定要刻意下压肋骨，可以另一手扶住肋骨位置。感受拉伸保持30秒换边，做2组。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1ca71d8692c44e63b1009d3726933c56_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"792\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic3.zhimg.com/v2-1ca71d8692c44e63b1009d3726933c56_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;553&#39; height=&#39;792&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"792\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"553\" data-original=\"https://pic3.zhimg.com/v2-1ca71d8692c44e63b1009d3726933c56_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1ca71d8692c44e63b1009d3726933c56_b.jpg\"/><\/figure><p>一个人肋骨外翻往往包含这几个方面的原因，所以改善也是综合的，建议这些方法可以同时使用，改善效果更好更快。<\/p>",
+    "comment_count": 2,
+    "image_url": "https://pic4.zhimg.com/v2-94a231b9f9657e97b21edcf3e78b958c_r.jpg",
+    "title": "肋骨外翻（突出）的原因和自我解决办法！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1600182788,
+    "is_labeled": false,
+    "excerpt": "说起减脂餐，全麦面包和脱脂牛奶这对CP肯定会排首位！这不我们新来的小同事，昨天刚说完要减肥，今早就拿着一包全麦面包晃晃悠悠来到了办公室，我瞄了一眼，配料表第一位竟是小麦粉！唉，又是一个被全麦欺骗了的姑娘。 <b>01<\/b> <b>明明都写的“全麦”为什么我就被骗…<\/b>",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 246523791,
+    "voteup_count": 8,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/246523791",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1600182788,
+    "content": "<p>说起减脂餐，全麦面包和脱脂牛奶这对CP肯定会排首位！这不我们新来的小同事，昨天刚说完要减肥，今早就拿着一包全麦面包晃晃悠悠来到了办公室，我瞄了一眼，配料表第一位竟是小麦粉！唉，又是一个被全麦欺骗了的姑娘。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>01<\/b><\/p><p><b>明明都写的“全麦”为什么我就被骗了呢？<\/b><\/p><p>的确，市面上很多面包为了迎合大家追求健康的需求，纷纷打出了“全麦”的字样，但这些产品可不都是“全麦”哟。比如下面三款全部声称为“全麦面包”，但全麦粉占比依次为5.5%、50%与100%，看看，都是全麦面包差别咋就这么大呢？<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c89394a3d95014a99467a3836708aaba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1194\" data-rawheight=\"345\" class=\"origin_image zh-lightbox-thumb\" width=\"1194\" data-original=\"https://pic3.zhimg.com/v2-c89394a3d95014a99467a3836708aaba_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1194&#39; height=&#39;345&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1194\" data-rawheight=\"345\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1194\" data-original=\"https://pic3.zhimg.com/v2-c89394a3d95014a99467a3836708aaba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c89394a3d95014a99467a3836708aaba_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>归根到底，还是因为我国并没有一个强制的标准来规定，什么才是全麦面包，甚至什么是全谷物食品。全麦面包执行的标准都是《面包》的标准 GB/T 20981，里面并没有规定怎么才算全麦面包，于是出现了市场上加50%全麦粉和加了5%全麦粉的面包都可以称为“全麦面包”，但是他们的健康价值显然是差了很多的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>严格来说，全麦面包就是用全麦粉做的面包，即使不是 100% 全麦粉制作，那主要原料也应该是全麦粉。像下面这种3.5%全麦粉添加量的全麦面包，我真是无力吐槽了，白沙糖加的都比全麦粉多的多，你说这是不是被骗了呢？<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a145a6b8156beeec7010a91779522e05_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1209\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb\" width=\"1209\" data-original=\"https://pic2.zhimg.com/v2-a145a6b8156beeec7010a91779522e05_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1209&#39; height=&#39;517&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1209\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1209\" data-original=\"https://pic2.zhimg.com/v2-a145a6b8156beeec7010a91779522e05_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a145a6b8156beeec7010a91779522e05_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>02<\/b><\/p><p><b>擦亮双眼，辨别真“全麦”面包<\/b><\/p><p>全麦面包顾名思义，就是用全麦面粉制作的面包，因为保留了小麦外面麸皮和胚芽，所以真全麦面包的特点是微褐色，能看到麦麸的小颗粒，质地比较粗糙，但有香气，营养价值比白面包高，这才是很多小仙女要找的真“全麦”面包型男，所以教大家三招选出你想要的MR Right！<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>三个小Tips:<\/p><p>#  1、  看一看：选择看起来表皮粗糙，表皮和面包体含有看得见摸得着的全麦谷粒的全麦面包；<\/p><p>#  2、  摸一摸：选择摸起来略微硬一些，甚至有一点点掉渣的全麦面包，太过柔软的一般不是真的全麦。<\/p><p>#  3、  尝一尝：真正的全麦面包，很多人乍一吃都会觉得不好吃，柔软好吃的一般也不是真全麦面包。但细细品味一下，你会发现真正的全麦面包会有一股简单又丰富的麦香味。<\/p><p>#4、  选一选：如果选择商品类的全麦面包，一定注意选择全麦粉排在配料表第一位的全麦面包；因为食品配料表不会说谎，食品包装规定原料、配料要按照使用量从高到低的顺序来写，也就是说排的越靠前的，含量越多。另外注意白砂糖、奶油、黄油、棕榈油等等配料也尽量要少，排位较靠后，甚至可以没有。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-fc71d46b007e2ca8f694bb5a9205009c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb\" width=\"735\" data-original=\"https://pic1.zhimg.com/v2-fc71d46b007e2ca8f694bb5a9205009c_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;735&#39; height=&#39;307&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"735\" data-original=\"https://pic1.zhimg.com/v2-fc71d46b007e2ca8f694bb5a9205009c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fc71d46b007e2ca8f694bb5a9205009c_b.jpg\"/><\/figure><p>秋天气候干燥，多吃富含维生素的食物，可以缓解秋燥不适感，南瓜含有丰富的胡萝卜素和维生素C，非常适合秋天时节食用。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-dcb3a426f3522ff964a0c69d2ab472ef_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"815\" data-rawheight=\"545\" class=\"origin_image zh-lightbox-thumb\" width=\"815\" data-original=\"https://pic4.zhimg.com/v2-dcb3a426f3522ff964a0c69d2ab472ef_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;815&#39; height=&#39;545&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"815\" data-rawheight=\"545\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"815\" data-original=\"https://pic4.zhimg.com/v2-dcb3a426f3522ff964a0c69d2ab472ef_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-dcb3a426f3522ff964a0c69d2ab472ef_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>03<\/b><\/p><p><b>全麦面包热量也不低啊！我们又被骗了吗？<\/b><\/p><p>有些细心的小伙伴可能发现了全麦面包和白面包热量相差不大，甚至一些全麦面包为了做的好吃，在配料中加糖又加奶油、黄油，那热量也是蹭蹭上涨。<\/p><p>的确是这样的，全麦面包≠ 低热量，那为什么还推荐吃全麦面包而不是白面包呢？我们可以对比一下二者的营养成分，我挑选了两款成分差不多的面包，只是一个是纯高筋小麦粉，一个是用的纯全麦粉。可以看得出热量真的相差不多，只是碳水化合物和膳食纤维的比例相差更明显。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2bcd1689e2a4a17052d0ca5954561ce5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"290\" class=\"content_image\" width=\"295\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;295&#39; height=&#39;290&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"290\" class=\"content_image lazy\" width=\"295\" data-actualsrc=\"https://pic2.zhimg.com/v2-2bcd1689e2a4a17052d0ca5954561ce5_b.jpg\"/><\/figure><p>中国居民膳食指南推荐我们要吃全谷物，也就是完整的谷物，不仅有“身体”（胚乳）、还要有“衣服”（胚芽和麸皮）。那全麦粉比白面粉多穿了这两件衣服：麸皮和胚芽。麸皮和胚芽中含有大部分的膳食纤维，维生素和蛋白质等。而现在我们的主食都是精白米面，虽然颜色更白皙好看，但营养成分也“空白”了，基本只剩胚乳，也就是碳水化合物和少许的蛋白质。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>可别小看全麦粉多的那两层衣服，膳食纤维可以让碳水化合物消化与吸收速度减慢，起到一个“缓释”的作用，不仅有利于全麦面包本身的营养物质吸收，也有利于控制血糖上升速度，这就是所谓的低GI食物。所以即便是热量相同，全麦面包的纤维素和维生素含量都会更高，营养更丰富，饱腹感更强，身体对此消化速度更慢，这就是营养专家们让吃全谷物的道理。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>不论对于高血糖患者，一天能容忍的血糖波动，还是对于减肥、控脂以及想美容的人，一天能摄入的碳水值，都是有限额的，把宝贵的份额，交给带给自己饱腹感和营养能量的食物，而不是满足自己碳水渴望、甜味渴望的高碳面食，甜食等等。所以爱吃面包的你，不妨换成全麦面包，当然换成全麦馒头、糙米饭、玉米、番薯等等都可以，不要神话全麦面包，也更不要被假全麦面包欺骗！<\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic4.zhimg.com/v2-f95a450889e055b7714495c90881f441_r.jpg",
+    "title": "你被“全麦面包”欺骗过吗？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1599882138,
+    "is_labeled": false,
+    "excerpt": "增肌的时候肚子总是跟着大了多半是热量没控制好！ 1、首先，虽然说增肌的过程中需要增加热量摄入，但实际上，热量盈余并不是增肌的必要条件。增肌首先是要补充足够的蛋白质，至少1g/kg体重，还要提高蛋白质利用率。因为修复破损肌肉的是蛋白质，而之所以要…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 237386834,
+    "voteup_count": 23,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/237386834",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1599882125,
+    "content": "<p>增肌的时候肚子总是跟着大了多半是热量没控制好！<\/p><p>1、首先，虽然说增肌的过程中需要增加热量摄入，但实际上，热量盈余并不是增肌的必要条件。增肌首先是要补充足够的蛋白质，至少1g/kg体重，还要提高蛋白质利用率。因为修复破损肌肉的是蛋白质，而之所以要热量盈余是可以让更多蛋白质有机会去修复肌肉，如果能量赤字的状态下蛋白质容易被分解供能。<\/p><p>其实，只要摄入能量刚好足够也是可以的，只是对一般人来说增肌有一定的热量盈余效果更好。但增肌速度比增肥速度慢，初期很多人控制不好量，而且增肌心急，造成每天热量盈余过大，比如每天摄入比消耗多出1000千卡，这样一来加上平时办公久坐，腰腹部就太容易囤积脂肪了。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3b89596416ee267be18b903d2aa26ece_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"595\" class=\"origin_image zh-lightbox-thumb\" width=\"572\" data-original=\"https://pic3.zhimg.com/v2-3b89596416ee267be18b903d2aa26ece_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;572&#39; height=&#39;595&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"595\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"572\" data-original=\"https://pic3.zhimg.com/v2-3b89596416ee267be18b903d2aa26ece_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3b89596416ee267be18b903d2aa26ece_b.jpg\"/><\/figure><p>记住，增重不等于增肌，如果增加体重更多来自脂肪，那么之后增重后又面临减脂的问题，否则肌肉线条还是不清晰。<\/p><p>解决方式：每日热量控制在300-500千卡盈余即可，也就是说在保持日常训练量的基础上，比增肌前的饭量基础上多吃一杯奶、一根香蕉和两三个鸡蛋即可，没必要大吃特吃高热量食物。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>2、精致碳水化合物超标。<\/p><p>增肌如果过多增加碳水化合物（尤其是快速消化吸收的单糖或者淀粉类），进入体内后导致胰岛素敏感性降低，肌肉短时间无法吸收过多的糖作为能量供应，糖就转化为脂肪储存。而脂肪储存第一步就是内脏脂肪，导致肚子增大。<\/p><p>因此，回顾一下平时的饮食，是否糖分摄入过多？是不是天天都是白米白面等精细主食？平均每天是否超过一斤水果？每周是否超过三次吃甜食喝甜饮料？<\/p><p>若是，则需要控糖，每日的主食直接用粗粮来代替，<b>最好不吃白色的主食，包括白米、白面、白馒头、包子饺子等。<\/b>水果限制在300克以内，每周仅吃一两次甜品。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-20bef115a30c99f14286ae4797b1a7d0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-20bef115a30c99f14286ae4797b1a7d0_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;280&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-20bef115a30c99f14286ae4797b1a7d0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-20bef115a30c99f14286ae4797b1a7d0_b.jpg\"/><\/figure><p>3、回顾每天蔬菜量是否吃够？是否便秘？蔬菜量不足会导致肠道蠕动不够，引发便秘，从而导致肚子容易看着大！特别是在增肌过程中，肉蛋奶等蛋白质吃的比较多，则更容易便秘！所以每天至少保证吃一斤蔬菜，其中半斤最好是绿叶青菜，同时喝上2000ml以上的水，防止便秘。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>4、 反思是否有熬夜的习惯？充足的睡眠才能分泌激素、促进肌肉恢复，如果不给肌肉群足够的修复时间，反而成了消耗而不是增肌。我自己的经验是睡眠不好，吃多出来的热量很难修复肌肉，而是转化成脂肪。<\/p><p>若是，则每天尽量11点前入睡，平均睡够8小时。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>5、如果增肌过程肚子胖了一些也需要做有氧运动，只是有氧运动不需要安排太多，一周安排2-3次30分钟以内的有氧就好，增加心肺功能的同时，有利于慢慢代谢掉多余囤积在腹部的脂肪。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>6、增加力量训练的负荷和强度，因为热量和蛋白质盈余要用到恢复肌肉，肌肉需要被中高强度负重训练才能有效刺激部分肌肉纤维破坏，之后慢慢修复合成更多更大的肌肉纤维，得以变壮！日常优先锻炼胸背肩、大腿臀部等大肌群，每次力量训练时间在原来基础上增加10分钟，而且训练的重量增加10%，如果你希望增加手臂和肩部的肌肉，那这10分钟全部安排给肩部和手臂。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>7、一定要有耐心，增肌是个漫长的过程，如果你开始增肌仅仅不到一个月，出现肚子变大，四肢、胸还没有变壮的情况，太正常了！你一定要了解，增肌的过程是缓慢的，比减肥难度要大。对于一个新手来说，系统健身和正确饮食第一年可以增加10几斤是非常快的了，随着训练时间的增加，肌肉增长的速度也会变慢，第二年6-10斤，第三年5、6斤就很好了，所以耐心坚持是非常关键的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>8、如果是上班族增肌，平时坐着的时候一定要挺胸收腹的，这样腹部脂肪不容易揉成一坨。另外，在原基础上每天增加5分钟腹肌训练来刺激腹部的肌肉，虽然不能直接减肚子，但持续下去也会让肚子看起来更紧致。<\/p><p><\/p>",
+    "comment_count": 4,
+    "image_url": "https://pic4.zhimg.com/v2-0836091352e8acd32bf777080a2b48f6_r.jpg",
+    "title": "增肌总是先胖肚子！咋整？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1599621889,
+    "is_labeled": false,
+    "excerpt": "最近总有学员问，听说筋膜枪能放松肌肉，想买一把（比如常常会觉得肩颈和小腿肌肉紧张），筋膜枪到底是不是智商税，能否请老师给出一些选购建议和使用建议？ <b>1 买筋膜枪是交智商税吗？<\/b>一个工具是不是智商税，要看它到底有没有起到宣传的功效。 <b>从放松的层面…<\/b>",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 227963066,
+    "voteup_count": 11,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/227963066",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1599621889,
+    "content": "<p>最近总有学员问，听说筋膜枪能放松肌肉，想买一把（比如常常会觉得肩颈和小腿肌肉紧张），筋膜枪到底是不是智商税，能否请老师给出一些选购建议和使用建议？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>1 买筋膜枪是交智商税吗？<\/b><\/p><p>一个工具是不是智商税，要看它到底有没有起到宣传的功效。<b>从放松的层面来说筋膜枪不是收智商税，但是如果买它为了局部瘦身就是交智商税了。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>筋膜枪的作用，跟泡沫轴，或者去按摩店相似，也就是通过物理方式刺激到深层的肌肉。筋膜枪是通过按摩头的高频震动，带动肌肉被动运动和升温，使肌肉和筋膜放松舒张。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-17bf054c0826f533c50f262505fa3738_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"503\" class=\"origin_image zh-lightbox-thumb\" width=\"756\" data-original=\"https://pic1.zhimg.com/v2-17bf054c0826f533c50f262505fa3738_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;756&#39; height=&#39;503&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"503\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"756\" data-original=\"https://pic1.zhimg.com/v2-17bf054c0826f533c50f262505fa3738_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-17bf054c0826f533c50f262505fa3738_b.jpg\"/><\/figure><p>筋膜枪的全称是肌肉筋膜放松按摩枪。筋膜是包裹肌纤维、肌束甚至整块肌肉的膜状组织，肌肉和筋膜都参与肌肉力量的发挥。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>而平时姿态不良、过度训练、休息不够、营养不足都会导致筋膜粘黏，肌肉弹性降低，甚至会形成筋膜激痛点（Trigger point），也就是你去按摩的时候，按着特别痛的那个点。<\/p><p><br/>跟泡沫轴、按摩相比，筋膜枪的优势是方便一些。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>比方说，泡沫轴往往要靠身体自己的重量进行按摩，或者需要特定的姿势才能进行，但筋膜枪使用受到的限制更少，特别是对某些部位的肌肉来说，泡沫轴太大，难以按到正确的位置。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>比如说有很多人圆肩、含胸，其实是胸小肌过于紧张导致，改善圆肩含胸需要放松胸小肌，但是胸小肌的位置用泡沫轴几乎是很难按到的，而筋膜枪能比较好地按摩到这块肌肉。<\/p><p><br/>对那些运动强度大，运动频率高的人，筋膜枪会让人感觉更方便，毕竟每次运动完都要用泡沫轴放松会有点麻烦。筋膜枪也同样可以帮助进行运动前的热身。<\/p><p><br/>注意，<b>筋膜枪不能起到减少局部脂肪的作用，不要被用筋膜枪瘦小腿之类的说法欺骗了。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>2 不同筋膜枪有啥区别？<\/b><\/p><p>筋膜枪的价格，从几百到上万都有，价格差异往往能体现出配置的不同。<br/><\/p><p>条件允许的话建议购买千元级（或接近千元）的筋膜枪，这一档次的筋膜枪，电机一般都是进口无刷电机，智控AI芯片，以及进口长效锂电池，这样的筋膜枪电机动力更强劲，按摩放松效果也会更好。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>百元级别的筋膜枪，有的用的是有刷电机，不仅动力不足，而且噪声和散热处理得不好，使用体验较差。<\/p><p><br/>转数和振动幅度关系到震动按摩效果的好坏，建议选择振幅＞10mm的筋膜枪。<\/p><p><br/>噪声和重量关系到使用体验。建议选择1kg左右的筋膜枪；好的筋膜枪的噪音通常是在30-45分贝左右。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>3 筋膜枪使用方法<\/b><br/><br/>最后，附上我比较推荐的筋膜枪使用方法：先装上接触面积大的按摩头，顺着肌肉纤维的纹路走向缓慢滑动筋膜枪，这个过程中寻找激痛点，一开始用低档，逐步调节至更高频档位，激痛点痛感达到6～7分（假设痛感范围是1～10）就可以了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>有的时候激痛点会比较深，用大的按摩头找不到，这个时候可以换上接触面积小的按摩头，这样可以刺激更深层的肌肉，用同样的方法寻找激痛点，档位先低再高。每个部位滑动使用2～5分钟，痛的地方可以停留久一些。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>4 哪些部位不使用筋膜枪？<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-06469c7f239fb6c8c0f399f0700dbf2b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"562\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb\" width=\"562\" data-original=\"https://pic4.zhimg.com/v2-06469c7f239fb6c8c0f399f0700dbf2b_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;562&#39; height=&#39;559&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"562\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"562\" data-original=\"https://pic4.zhimg.com/v2-06469c7f239fb6c8c0f399f0700dbf2b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-06469c7f239fb6c8c0f399f0700dbf2b_b.jpg\"/><\/figure><p>首先，如果用筋膜枪放松颈前和颈后肌肉，有很多血管和神经，很可能造成的颈椎不稳定，甚至于会导致头晕。<\/p><p>筋膜枪也不要直接用在骨头凸起处，比如颈椎胸椎腰椎、肩胛冈、小腿骨等，两侧肋骨放松也最好不用筋膜枪，这些骨周边没有什么肌肉，直接放松很容易伤到骨骼本身。<\/p><p>腹股沟也不要用筋膜枪来松解，腹股沟淋巴和韧带相对比较脆弱，用筋膜枪的话可能导致腹股沟的损伤。<br/><br/>还有急性期不要使用筋膜枪，如刚刚扭伤脚踝或者弯腰闪到腰椎等情况，用筋膜枪因为很可能会加重肿胀。<\/p>",
+    "comment_count": 2,
+    "image_url": "https://pic1.zhimg.com/v2-aa5e21620edff1628d628ba6cd5058f6_r.jpg",
+    "title": "筋膜枪到底是智商税吗？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1595830778,
+    "is_labeled": false,
+    "excerpt": "<b>7月初，我和中国顶级出版社中信出版集团合作的新书《4分钟极速减脂》上线了！<\/b> 效率效率效率！让我们一起敏捷瘦身！ <b>先划一下重点：<\/b> <i><b>1.<\/b><\/i>这本书的框架结构和内容是我非常满意的，自己短时间内应该是超越不了了。 <i><b>2.<\/b><\/i> 本书绝对是直击减肥痛点问题，剖析原理，并…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 164499410,
+    "voteup_count": 9,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/164499410",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1595830778,
+    "content": "<p><b>7月初，我和中国顶级出版社中信出版集团合作的新书《4分钟极速减脂》上线了！<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>效率效率效率！让我们一起敏捷瘦身！<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3e6d031fc5cb68d0dfd7ae1e28b36cbe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"488\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-3e6d031fc5cb68d0dfd7ae1e28b36cbe_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;488&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"488\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-3e6d031fc5cb68d0dfd7ae1e28b36cbe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3e6d031fc5cb68d0dfd7ae1e28b36cbe_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>先划一下重点：<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>1.<\/b><\/i>这本书的框架结构和内容是我非常满意的，自己短时间内应该是超越不了了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>2.<\/b><\/i> 本书绝对是直击减肥痛点问题，剖析原理，并且给出解决方案，以一当百！<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i><b>3.<\/b><\/i> 在我读了这么多本健身和减肥相关书籍之后，我绝对有信心说这本书的内容和品质都是最顶级的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b><i>4.<\/i><\/b> 本书从饮食、运动方方面面，给出最实操的东西，然后配有精致的图片和视频。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>5.<\/b> 这本书上线2周就获得了<b>当当网和京东的分榜冠军<\/b>。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-20fcc2ca5cd882d8a04e05d1dc62f448_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1036\" data-rawheight=\"892\" class=\"origin_image zh-lightbox-thumb\" width=\"1036\" data-original=\"https://pic1.zhimg.com/v2-20fcc2ca5cd882d8a04e05d1dc62f448_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1036&#39; height=&#39;892&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1036\" data-rawheight=\"892\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1036\" data-original=\"https://pic1.zhimg.com/v2-20fcc2ca5cd882d8a04e05d1dc62f448_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-20fcc2ca5cd882d8a04e05d1dc62f448_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>在我的第一本书《每周健身两小时，在家练出好身材》里，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>我就表达过自己的理念，对于非健身行业大众，应该掌握如何提高效率、付出少量时间获得好身材的健身方法。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>一方面是能不依靠健身房的时候就尽量在家练，节省通勤时间；<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>另一方面，通过动作安排来提升锻炼效率，缩短每次健身的时长。<\/p><p>这样一来，大家对时间和注意力的消耗就没有那么大，也更容易长期坚持下来。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>我的这本书依旧会延续高效的理念，本书会由六个章节组成。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>我会在<b>第一章用容易理解的语言带你了解减肥的底层原理<\/b>。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ef91e2d1c14830d0933f6435c5f03831_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-ef91e2d1c14830d0933f6435c5f03831_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-ef91e2d1c14830d0933f6435c5f03831_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ef91e2d1c14830d0933f6435c5f03831_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>在<b>第二章，我会帮你走出减肥误区，帮你全面重塑减肥认知。<\/b><\/p><p><b>第三章，我会分析市面上的减肥方法和“捷径”是否靠谱。<\/b><\/p><p><b>第四章运动部分<\/b>，我会先给你用大白话讲解人体肌肉结构，然后带你进行省时、高效的 4 分钟燃卡和塑形运动，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-56a2bc1470a5f6053d4eae195d91e46f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-56a2bc1470a5f6053d4eae195d91e46f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-56a2bc1470a5f6053d4eae195d91e46f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-56a2bc1470a5f6053d4eae195d91e46f_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>无论是在家、户外还是健身房都可以使用，帮你大幅度节省健身的时间花费，腾出时间去生活，让你更容易坚持。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-72d7ff84ca9d13828d791035741113eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-72d7ff84ca9d13828d791035741113eb_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-72d7ff84ca9d13828d791035741113eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-72d7ff84ca9d13828d791035741113eb_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><br/><b>第五章饮食篇<\/b>，对于减肥，饮食永远是更重要的部分，<br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>因此，我会全面讲解市面上常见的食品类别对减肥的影响。并且会详细讲解营养标签的阅读方法，帮你自己成为自己的教练。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-da8a009056da191a389d647b47c01334_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-da8a009056da191a389d647b47c01334_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-da8a009056da191a389d647b47c01334_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-da8a009056da191a389d647b47c01334_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>第六章是实操板块<\/b>，我会手把手陪你定制自己的动态减肥方案，让你在未来的日子里也能举一反三。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bda59f0a55295bdb97f3eddbf6a82434_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1045\" data-rawheight=\"706\" class=\"origin_image zh-lightbox-thumb\" width=\"1045\" data-original=\"https://pic1.zhimg.com/v2-bda59f0a55295bdb97f3eddbf6a82434_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1045&#39; height=&#39;706&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1045\" data-rawheight=\"706\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1045\" data-original=\"https://pic1.zhimg.com/v2-bda59f0a55295bdb97f3eddbf6a82434_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bda59f0a55295bdb97f3eddbf6a82434_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p>最后的彩蛋，我还会告诉你 10 个超级实用的减肥小技巧，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>包括饮食技巧和运动技巧，帮助你更好地执行减肥方案和保持体形。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>扫描图中二维码即可订购。<\/b><\/p><p><b>添加V可以买签名版哟：burning6869<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bfd763956fd38b75facd0841e5cae246_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"804\" data-rawheight=\"1322\" class=\"origin_image zh-lightbox-thumb\" width=\"804\" data-original=\"https://pic3.zhimg.com/v2-bfd763956fd38b75facd0841e5cae246_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;804&#39; height=&#39;1322&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"804\" data-rawheight=\"1322\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"804\" data-original=\"https://pic3.zhimg.com/v2-bfd763956fd38b75facd0841e5cae246_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bfd763956fd38b75facd0841e5cae246_b.jpg\"/><\/figure><p><\/p><p><\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic1.zhimg.com/v2-2f8e442a2812280073415b3258e8de0a_r.jpg",
+    "title": "七年磨一剑！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1589941985,
+    "is_labeled": false,
+    "excerpt": "最近有小伙伴问我说，她脸上眼角都没有太多皱纹，但脖子上有几道颈纹，每周也用颈霜做按摩，但没有效果。 很苦恼。 想减少颈纹，但不接受整容的办法，要怎么办？ 首先，其实脸上没有太多皱纹，但是脖子上却有颈纹其实是比较常见的，我们熟知的不少明星其实…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 142229592,
+    "voteup_count": 5,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/142229592",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1589941985,
+    "content": "<p>最近有小伙伴问我说，她脸上眼角都没有太多皱纹，但脖子上有几道颈纹，每周也用颈霜做按摩，但没有效果。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>很苦恼。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>想减少颈纹，但不接受整容的办法，要怎么办？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>首先，其实脸上没有太多皱纹，但是脖子上却有颈纹其实是比较常见的，我们熟知的不少明星其实面部皮肤都很好很紧致，但是脖子上的颈纹就会比较明显。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-61367c13f45606535f93ce77095b61d7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-61367c13f45606535f93ce77095b61d7_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;480&#39; height=&#39;350&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-61367c13f45606535f93ce77095b61d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-61367c13f45606535f93ce77095b61d7_b.jpg\"/><\/figure><p>即便是范冰冰这样出名的护肤达人也避免不了。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a1609d6ffc07f05e6744defb57065b3d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"425\" data-rawheight=\"599\" class=\"origin_image zh-lightbox-thumb\" width=\"425\" data-original=\"https://pic2.zhimg.com/v2-a1609d6ffc07f05e6744defb57065b3d_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;425&#39; height=&#39;599&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"425\" data-rawheight=\"599\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"425\" data-original=\"https://pic2.zhimg.com/v2-a1609d6ffc07f05e6744defb57065b3d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a1609d6ffc07f05e6744defb57065b3d_b.jpg\"/><\/figure><p>颈纹其实也有很多是天生的,当然后天的各种原因会加重颈纹的凹陷程度。<\/p><p><br/>对于脸，<b>颈部其实确实会更容易产生皱纹<\/b>，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>这是因为我们颈部的肌肤比脸上的要脆弱和薄，而且颈部的皮脂腺数量只有脸上的三分之一,油脂分泌少,更容易干燥。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>平时大家会注意面部的保养，但很容易忽略颈部的保养。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>所以稍不留意，干纹就会立刻出现了。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>随着年龄的增长，胶原蛋白也会流失，颈部水分流失严重，皮肤就会失去弹性，颈纹就会加深。<\/p><p>对于颈纹来说，其实预防比改善会更加重要。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>但是已经产生了颈纹可以通过以下方法改善:<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>1.减少低头玩手机的时间，睡觉时枕头也别太高，更加不要躺着高枕头玩手机。<\/b>这些等于变相让脖子向前压而导致纹路的产生和加剧。 <\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>枕头的高度最好在6-9公分，平时玩手机的时候尽量可以用一手搭在另一手上眼睛平视手机。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-04fbc2fcd2c2bb6c38b773532b6a1271_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"542\" class=\"content_image\" width=\"377\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;377&#39; height=&#39;542&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"542\" class=\"content_image lazy\" width=\"377\" data-actualsrc=\"https://pic2.zhimg.com/v2-04fbc2fcd2c2bb6c38b773532b6a1271_b.jpg\"/><\/figure><p><b>2.睡觉的时候避免侧睡，仰卧比较好。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>如果脖子长时间被扭转，没有保持平直，纹路更容易产生。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>所以面向天花板平躺仰卧才能避免颈纹产生。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0ab41c000ad779658fbb1db040334b94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic1.zhimg.com/v2-0ab41c000ad779658fbb1db040334b94_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;533&#39; height=&#39;323&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"533\" data-original=\"https://pic1.zhimg.com/v2-0ab41c000ad779658fbb1db040334b94_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0ab41c000ad779658fbb1db040334b94_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>3. 脖子也要防晒<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>日光、干燥、摩擦等都会造成颈纹的产生，因此在为脸部擦防晒时，千万别忘记脖子以及后颈，这两个地方也都必须要认真防晒到才能避免颈纹加重。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>4. 注意加强保湿<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>还是建议要每天早晚使用滋润的护肤品。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>一般颈霜中含有的甘油、山梨醇、胶原蛋白或透明质酸等保湿成分，<\/p><p>这些还是可以有效预防颈纹的产生。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>平时一天中间如果觉得干燥了也要及时补护肤品。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>5. 平时多做用力抬头的动作，可以向左右和上方分别用力抬头。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>这样能让已有的纹路打开。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>每个位置持续30秒一组，有空就做2-3组。可以再用手指节在用力抬头的时候上下按摩。每次50次。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7bd38e3e08b6df5266d7f7f11f0f75ee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"467\" class=\"content_image\" width=\"377\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;377&#39; height=&#39;467&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"467\" class=\"content_image lazy\" width=\"377\" data-actualsrc=\"https://pic3.zhimg.com/v2-7bd38e3e08b6df5266d7f7f11f0f75ee_b.jpg\"/><\/figure><p><\/p>",
+    "comment_count": 1,
+    "image_url": "https://pic2.zhimg.com/v2-815e373b2a0e908e2a85a5fa351299c0_r.jpg",
+    "title": "颈纹一纹老10岁，护颈霜无效，怎么办？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1588837390,
+    "is_labeled": false,
+    "excerpt": "<b><i>1 <\/i>食用油这么多种类，到底有什么区别？<\/b> 食用油的主要成分是脂肪,脂肪是由脂肪酸和甘油三酯组成的,其中脂肪酸分为不同的类型： <b>脂肪酸按饱和程度通常分为饱和脂肪酸和不饱和脂肪酸，不饱和脂肪酸又分为单不饱和脂肪酸、多不饱和脂肪酸。<\/b> 这三种脂肪酸没有太…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 138757404,
+    "voteup_count": 40,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/138757404",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1588837390,
+    "content": "<p><b><i>1 <\/i>食用油这么多种类，到底有什么区别？<\/b><\/p><p><br/>食用油的主要成分是脂肪,脂肪是由脂肪酸和甘油三酯组成的,其中脂肪酸分为不同的类型：<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6984397518dcd1716fdb387a3dc588b4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"715\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"715\" data-original=\"https://pic1.zhimg.com/v2-6984397518dcd1716fdb387a3dc588b4_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;715&#39; height=&#39;435&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"715\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"715\" data-original=\"https://pic1.zhimg.com/v2-6984397518dcd1716fdb387a3dc588b4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6984397518dcd1716fdb387a3dc588b4_b.jpg\"/><\/figure><p><br/><b>脂肪酸按饱和程度通常分为饱和脂肪酸和不饱和脂肪酸，不饱和脂肪酸又分为单不饱和脂肪酸、多不饱和脂肪酸。<\/b><br/> <br/>这三种脂肪酸没有太多的高低贵贱，都是人体需要的。<br/><br/>三种脂肪酸以一定比例摄入对心脑血管健康有促进作用，常规推荐三种脂肪酸摄入比例为1:1:1，也就是大家广告听到的调和油比例。<br/><br/>日本学者更建议3:4:3，其中多不饱和脂肪酸中的亚麻酸和亚油酸的比例推荐1:4-6为好。<br/> <br/>看到这里是不是有点蒙了？<br/><br/>那说回我们平时吃的食用油，每种食物油中基本都含这些种类的脂肪酸，只是含量比例有高有低。<br/><br/>那么我们可以依据它们所含脂肪酸的种类高低大致分为四类：<b>高饱和脂肪酸型、高油酸型、高亚油酸型、高亚麻酸型。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-87db690fc87c53e4580a487a317ffe76_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"568\" class=\"origin_image zh-lightbox-thumb\" width=\"831\" data-original=\"https://pic3.zhimg.com/v2-87db690fc87c53e4580a487a317ffe76_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;831&#39; height=&#39;568&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"568\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"831\" data-original=\"https://pic3.zhimg.com/v2-87db690fc87c53e4580a487a317ffe76_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-87db690fc87c53e4580a487a317ffe76_b.jpg\"/><\/figure><p><b>高饱和脂肪酸型<\/b>食用油主要含有相当多的饱和脂肪酸，容易凝固，耐热性好，主要代表是猪油、牛油、羊油、黄油等动物油以及棕榈油、椰子油、可可油等。<br/> <br/><b>高油酸型<\/b>食用油主要含有相当多的单不饱和脂肪酸，前三名代表是橄榄油、茶油、菜籽油。<br/> <br/><b>高亚油酸型<\/b>食用油主要是n-6系列的多不饱和脂肪酸含量高，以大豆油、玉米油、芝麻油、葵花籽油、花生油等为常用油代表。<br/> <br/><b>高亚麻酸型<\/b>食用油主要是n-3系列的多不饱和脂肪酸含量高，以亚麻籽油（胡麻油）、紫苏油、核桃油、葡萄籽油等为代表。 <br/> <br/><b><i>2 <\/i>我们到底推荐吃什么油？<\/b><br/> <br/>从上面可以看出，没有一种油是十全十美的，不同的食用油有各自的优点，要经常换着吃，这样就可以取长补短、雨露均沾到各种脂肪酸。<br/><br/><b>而现实是中国人目前对于食用油的选择还是有几大问题：<\/b><br/> <br/><b>问题一：很多地区饱和脂肪食用比例过高<\/b><br/><br/>比如很多地区依旧喜欢用猪油炒菜、常吃牛油火锅等。<br/><br/><b>膳食中饱和脂肪比例过高，则会大大增加肥胖程度及患心血管疾病风险。<\/b><br/> <br/><b>问题二：食用油种类过于单一<\/b><br/><br/>目前中国消费量前四位的食用油为大豆油、玉米油、菜籽油和葵花籽油，长期食用以上四种油的人群会导致n-6亚油酸摄入过多，而n-3亚麻酸这种必需脂肪酸缺乏。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0e1f342c6d9c335be560219f96d00a12_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"654\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"654\" data-original=\"https://pic3.zhimg.com/v2-0e1f342c6d9c335be560219f96d00a12_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;654&#39; height=&#39;437&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"654\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"654\" data-original=\"https://pic3.zhimg.com/v2-0e1f342c6d9c335be560219f96d00a12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0e1f342c6d9c335be560219f96d00a12_b.jpg\"/><\/figure><p><br/><b>问题三：认为“土榨油”更好<\/b><br/><br/>很多人选择它们是因为未经现代工业手段处理、无添加等。<br/>的确土榨油没有经过精炼，的确会有更好的风味并保留更多的营养素。<br/><br/>但是烟点低，随便一加热就冒烟产生丙烯醇等有害物质。<br/>关键是油料很<b>容易产生一级致癌物黄曲霉毒素<\/b>，精炼油在出厂前会去除黄曲霉毒素，而土榨油只能保留在里面。<br/> <br/><b>问题四：喜欢选择大桶装的食用油<\/b><br/><br/>这不仅是会导致一家人长期吃一种油，最关键的健康风险在于会存在脂肪氧化酸败的现象，影响心脑血管系统或致癌。<br/><br/><b>建议购买小瓶装油，不买5升、6升的大瓶装，并且注意避光保存；<\/b><br/><b>油开封后尽量两个月内吃完<\/b>。<br/> <br/>基于以上问题，你应该了解了应该选择什么样的油了，换着吃、换着吃、换着吃，<b>每隔两个月换一种类型的油吃<\/b>。<br/><br/>对于患有慢性病（糖尿病,高血压,高血脂,冠心病）及肥胖,中风的人群，则可适当选择单不饱和脂肪酸含量高的食用油，如山茶油、橄榄油，尽量减少或避免饱和脂肪酸含量高的猪油、牛油等。<br/> <br/><i>3 <\/i><b>没有完美的油，更没有完美的使用方法<\/b><br/> <br/>我们平时除了经常换各种类型的油吃，还要注意各种油其实有自己适合的烹调方式。<br/><br/>很多油烟点低，只适合低温烹调使用，否则会产生致癌物。<br/><br/>下面给大家总结一下：<br/> <br/><b>适合炒菜的食用油：<\/b>菜籽油，茶油，大豆油，玉米油，精炼的橄榄油也可以，只是性价比不高。<br/><br/><b>适合凉拌、炖煮的食用油：<\/b>橄榄油，芝麻油，亚麻籽油等。<br/><br/><b>适合油炸的食用油：<\/b>牛油，猪油，棕榈油，椰子油、花生油。<br/> <br/>家中除了两个月换一种油吃，不妨每次买两三种油，炒菜用一种，凉拌炖煮用一种，也是非常好的用油习惯。<\/p><p><br/><b><i>4 <\/i>最健康的食用油方式是限量<\/b><br/> <br/><b>根据2012年中国居民营养与健康状况检测结果显示:<\/b><br/><br/>全国城乡居民平均每标准人日食用油的摄入量为42.1g，其中植物油37.3g，动物油4.8g。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-452954399db290837520f5e0e36960fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"658\" class=\"origin_image zh-lightbox-thumb\" width=\"831\" data-original=\"https://pic4.zhimg.com/v2-452954399db290837520f5e0e36960fb_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;831&#39; height=&#39;658&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"658\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"831\" data-original=\"https://pic4.zhimg.com/v2-452954399db290837520f5e0e36960fb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-452954399db290837520f5e0e36960fb_b.jpg\"/><\/figure><p><br/>值得赞许的是动物油的摄入在减少，但平均用油量着实太高，<b>我国推荐成年居民烹调油的摄入量的标准是每日25-30g，<\/b>可实际超出十几克，这十几克就是一百多千卡的热量！一周就轻松增加将近一千千卡热量，若活动量再减少，这妥妥就是长胖养膘的节奏~<br/><br/>而且还<b>会增加心脑血管疾病发病风险<\/b>。所以说我们对于油的食用量不是斤斤计较，而是克克计较。<br/><br/><i>5 <\/i><b>最应该远离的一种油——反式脂肪<\/b><br/><br/>虽说含饱和脂肪的油应该少吃，它是造成心脑血管的杀手，那<b>反式脂肪就是造成心脑血管疾病的核武器。<\/b><br/> <br/>我们常见的天然植物油都是顺式脂肪酸，不饱和程度高，容易氧化，不能长久保存，更不能成为固体状态，不适用于做一些涂抹或打发的加工食品。<br/><br/>黄油、猪油等饱和脂肪的成本又比较高，所以人为将植物油改造，进行氢化处理,把不饱和脂肪酸变成饱和的,原本不饱和脂肪的好处没有了，还容易将一部分变成反式脂肪。<br/> <br/>研究表明<b>反式脂肪酸摄入过多时会极大程度增加患动脉粥样硬化和冠心病的危险性<\/b>，<b>还会影响儿童的生长发育及神经系统。<\/b><br/><br/>我国要求2岁以上的儿童和成年人膳食中来源于食品工业加工产生的反式脂肪酸最高限量为2g，所以尽可能少吃或不吃。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0c8d08f438bf76d128fba4d2cb15670f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"675\" data-rawheight=\"508\" class=\"origin_image zh-lightbox-thumb\" width=\"675\" data-original=\"https://pic4.zhimg.com/v2-0c8d08f438bf76d128fba4d2cb15670f_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;675&#39; height=&#39;508&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"675\" data-rawheight=\"508\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"675\" data-original=\"https://pic4.zhimg.com/v2-0c8d08f438bf76d128fba4d2cb15670f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0c8d08f438bf76d128fba4d2cb15670f_b.jpg\"/><\/figure><p><br/><b>那它们主要存在于哪里呢？<\/b><br/><br/>反式脂肪主要来自加工食品，所以想要减少反式脂肪的摄入也很简单，记住两点：<br/><br/>1、配料表中出现<b>“氢化油”“人造黄油”“起酥油”“植物奶油”“植物黄油”“植脂末”“代可可脂”<\/b>等字眼的时候尽量不要购买。<br/><br/>2、看营养成分表，其中会标明反式脂肪（Trans Tat）含量，只要有就尽量不要购买。<br/><br/>同时可能存在配料表中有以上字眼，但营养成分表中反式脂肪是0的情况。那是因为每百克反式脂肪低于0.3（有些国家低于0.5）克，便可以标注为0。<b>所以说即使标注0也不可忽视<\/b>。<br/> <br/><b>最后简单总结一下：<\/b><br/><br/><b>1、 经常换不同种类的油食用<\/b><br/><b>2、 建议买小瓶油，最好开封2月内用完<\/b><br/><b>3、 减少饱和脂肪酸，增加单不饱和脂肪酸和n-3系多不饱和脂肪酸<\/b><br/><b>4、 避免或减少反式脂肪<\/b><br/><b>5、 每日食用油摄入量控制在25-30ml以内<\/b><br/><br/><\/p><p><b>5月Burning宠粉活动来啦！<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0de25385f68829db85bf61dac9b5c8ff_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"694\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb\" width=\"694\" data-original=\"https://pic4.zhimg.com/v2-0de25385f68829db85bf61dac9b5c8ff_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;694&#39; height=&#39;535&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"694\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"694\" data-original=\"https://pic4.zhimg.com/v2-0de25385f68829db85bf61dac9b5c8ff_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0de25385f68829db85bf61dac9b5c8ff_b.jpg\"/><\/figure><p><br/><b>超值好身材套餐包含：<\/b><br/>1. Swift谷物高蛋白营养正餐1箱，12餐，价值398元<br/>2. Burning老师线上健身系列课一套，10节视频课，价值199元<br/>3. 一对一饮食指导服务7天，价值299元<br/>4. 资料《减脂期食物总览表》，《上班族食堂就餐指南》，价值99元<br/><br/>总价值995元，粉丝福利仅199元！<br/><br/><br/><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><br/> <\/p>",
+    "comment_count": 4,
+    "image_url": "https://pic1.zhimg.com/v2-3d35aa656ebec53a5e229d958270f18c_r.jpg",
+    "title": "吃什么油最健康？橄榄油不长胖吗？给你一份最靠谱的“吃油指南”！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1587954361,
+    "is_labeled": false,
+    "excerpt": "中国的代餐市场正在以每年30%的速度高速增长，尤其95后群体。我周围减过肥的女生基本上都用过代餐，现在市面上琳琅满目的代餐至少有上千个品牌。 代餐的主要类型包括代餐棒、代餐饼干、代餐果冻、代餐粉和蛋白奶昔等等。 对于代餐，一般大家有两种观点，一…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 136622527,
+    "voteup_count": 6,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/136622527",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1587954361,
+    "content": "<p>中国的代餐市场正在以每年30%的速度高速增长，尤其95后群体。我周围减过肥的女生基本上都用过代餐，现在市面上琳琅满目的代餐至少有上千个品牌。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>代餐的主要类型包括代餐棒、代餐饼干、代餐果冻、代餐粉和蛋白奶昔等等。<\/p><p>对于代餐，一般大家有两种观点，一种观点认为吃代餐就是减肥的捷径，只要吃代餐就一定能瘦下来。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>还有一种观点认为代餐也是骗人的把戏，许多人听到代餐两个字就嗤之以鼻，觉得万万不可取，连饭都不好好吃，营养不够怎么能行？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>这两种观点其实都有问题<\/b>。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9c8658885837fc0e36966976d3a7be9d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"701\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic2.zhimg.com/v2-9c8658885837fc0e36966976d3a7be9d_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700&#39; height=&#39;701&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"701\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"700\" data-original=\"https://pic2.zhimg.com/v2-9c8658885837fc0e36966976d3a7be9d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9c8658885837fc0e36966976d3a7be9d_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i>1<\/i><b>什么是代餐？<\/b><\/p><p>首先，我们先统一一个观念，<b>代餐指的是取代部分或者全部的正餐（早中晚餐）的方便低热量食品。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>所以只要你拿某种食物快速代替了三餐中的部分或者全部食物，并且热量低于原来的正餐，那么这种食物都可以理解为代餐。<\/p><p>但是，对于正餐的饮食，不同地方、民族和习惯的差异是巨大的，食物结构也就会有非常大的差别。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>比如中西方饮食文化就有差异，西方人的饮食结构以肉类蛋白质为主，欧美人可以完全不吃米饭,然后吃一块牛排几根芦笋或西蓝花作为一顿，这样一来,与肉类同是蛋白质为主的蛋白奶昔对西方人而言就非常合适，因为这里的奶昔相当于“肉类”，只是一种快速可以喝下去的而已。<\/p><p>所以，一杯奶昔对于欧美人就可以是一顿无异于他平时吃的牛排鸡排，热量其实也差不多，只是口感和饱腹感有区别。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>因此，奶昔对于欧美人来说也可以算省时间的液体正餐。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0774ebf88c5a0f8f2174e9266806a717_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"515\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"515\" data-original=\"https://pic4.zhimg.com/v2-0774ebf88c5a0f8f2174e9266806a717_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;515&#39; height=&#39;387&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"515\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"515\" data-original=\"https://pic4.zhimg.com/v2-0774ebf88c5a0f8f2174e9266806a717_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0774ebf88c5a0f8f2174e9266806a717_b.jpg\"/><\/figure><p>而在中国，三餐基本要有米面馒头等，然后再配上一些肉和菜。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>所以，如果在中国不吃中餐、晚餐而喝奶昔，就相当于少吃了主食的部分，热量也低了不少，很多人就会觉得不习惯了，这种情况下奶昔就只是部分代餐。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>再比如，很多人习惯早餐喝粥，这样代餐类的粥也应该算是更低热量的早餐，也是合适的代餐。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d956db5a393ab4d938ee1513e930f23b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"649\" class=\"origin_image zh-lightbox-thumb\" width=\"1022\" data-original=\"https://pic4.zhimg.com/v2-d956db5a393ab4d938ee1513e930f23b_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1022&#39; height=&#39;649&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"649\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1022\" data-original=\"https://pic4.zhimg.com/v2-d956db5a393ab4d938ee1513e930f23b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d956db5a393ab4d938ee1513e930f23b_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i>2<\/i><b>代餐是如何帮助减肥的呢？<\/b><\/p><p><b>代餐的原理依旧是回归到了减肥的本质，能量负平衡。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>代餐普遍都是营养素比较丰富，但是能量远低于正餐的。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>一般的代餐一顿只有150-300千卡，因此，如果三餐纯吃代餐不吃别的东西就属于超低热量饮食法。<\/p><p><b>超低热量饮食（very low calorie diet，VLCD）<\/b>是肥胖病人在进行快速减重过程中所采用的方法，通常在医生的监护下进行。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>病人在一段时间内以奶昔或者能量棒等代替日常的食物，但其中维他命和矿物质的配比都要满足日常需要，同时每天能量摄入大致在800千卡。<\/p><p><b>假设我们平时一天吃入约1600千卡的热量维持体重，现在突然减少到800千卡，这样就产生了800千卡的能量缺口了，就能瘦。<\/b><\/p><p>再比如你平时中午出去吃烧鸭饭，一份是800千卡，现在改成吃代餐只摄入了200千卡，那与往常相比午餐就能<b>少摄入600千卡<\/b>。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>当然，你可能会说我不吃或者我只吃一个苹果不是更少吗？<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>从能量差的角度来说是没错的，但是这么做营养素就会缺乏了，所以<b>吃代餐肯定要优于啥也不吃或者乱吃。<\/b><\/p><p>但过于严格的限制热量摄入对健康有风险。<\/p><p>这些风险包括：能量不足、没力气完成运动计划和钟摆式减重。<\/p><p>许多采用超低热量饮食的减肥人士反映了一些副作用，如疲劳、便秘、恶心和头晕等。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>最普遍而严重的是胆结石，尤其在女性快速减重过程中非常容易出现。<\/p><p>另外，代餐生产商很多，良莠不齐。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>有人分析指出，市场上有些代餐的脂肪虽低但糖分很高，根本不适合做减肥代餐。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>因此，选用代餐要特别小心，要认真阅读代餐后面的营养标签，分辨出代餐是否适合自己食用以及如何食用，以免被误导。<\/b><\/p><p>代餐通常会强化多种维生素和矿物质，本身并无消脂效果。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-78c9a00bfbcf12a424072d40fb971f5a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-78c9a00bfbcf12a424072d40fb971f5a_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-78c9a00bfbcf12a424072d40fb971f5a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-78c9a00bfbcf12a424072d40fb971f5a_b.jpg\"/><\/figure><p class=\"ztext-empty-paragraph\"><br/><\/p><p><i>3<\/i><\/p><p><b>如何使用代餐帮助减肥？<\/b><\/p><p><b>1. 使用代餐减肥时一般一天取代两餐就好，或者三餐可以再搭配点蔬菜和肉。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>当然，若偶尔因为特殊状况放纵吃太多，之后多代几顿正餐是没问题的，并且代餐的时候可以搭配上一些蔬菜水果和鸡蛋增加营养。<\/p><p><b>2. 尽量选择纯天然和无添加的代餐，并且尽量选择贴近自己饮食习惯的代餐。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>比如，你平时早餐喜欢吃豆浆油条，那可以换成代餐棒加一杯牛奶；<\/p><p>或者你晚上喜欢喝粥，就选择代餐粥；<\/p><p>平时喜欢喝奶茶就可以换成蛋白奶昔。<\/p><p><b>3. 代餐对减重和体重保持确实有很好的效果。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>我自己其实也有长期使用代餐的习惯,因为这种方法比较简单省事,不用过脑思考。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>比如我早餐都是用谷物蛋白粉冲，再加个鸡蛋，这绝对是营养素远高于豆浆油条和米粉面条之类的搭配。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a97307daa32569232691a1cbd24c8873_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"890\" data-rawheight=\"677\" class=\"origin_image zh-lightbox-thumb\" width=\"890\" data-original=\"https://pic4.zhimg.com/v2-a97307daa32569232691a1cbd24c8873_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;890&#39; height=&#39;677&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"890\" data-rawheight=\"677\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"890\" data-original=\"https://pic4.zhimg.com/v2-a97307daa32569232691a1cbd24c8873_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a97307daa32569232691a1cbd24c8873_b.jpg\"/><\/figure><p>中餐正常想吃啥吃啥，晚餐有时候不吃米饭，吃营养粉再配一些绿色蔬菜和肉，这样我没有计算热量，身材也能很好保持了。<\/p><p>如果一个人能坚持长期自己做饭当然是最好的，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>但是对于没有时间做饭或者觉得自己做麻烦不好吃的小伙伴，减肥期我是非常推荐使用代餐的,因为<b>这能够更精准控制热量的摄入,产生热量缺口<\/b>。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>只要选择好合适的代餐对于健康和身材都会有很大的帮助。<\/b><br/><\/p><p><b>如果你需要一款能长久使用的，我推荐我自己的新品SWIFT素维中式谷物奶昔。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9133d0a0ed2cdc3114bb59fd0265e3a4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"489\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb\" width=\"489\" data-original=\"https://pic1.zhimg.com/v2-9133d0a0ed2cdc3114bb59fd0265e3a4_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;489&#39; height=&#39;548&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"489\" data-rawheight=\"548\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"489\" data-original=\"https://pic1.zhimg.com/v2-9133d0a0ed2cdc3114bb59fd0265e3a4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9133d0a0ed2cdc3114bb59fd0265e3a4_b.jpg\"/><\/figure><p><b>SWIFT英文意思是敏捷。<\/b><\/p><p>大家应该都知道我的理念，<b>高效健身，高效减脂<\/b>，<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>运动方面我开发了“<b>每周健身两小时<\/b>”、“<b>4分钟极速减脂<\/b>”的训练方法，<\/p><p>同样，饮食方面我发明了<b>“两拳齐美”<\/b>饮食法。<\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p>现在我也希望用好的减脂饮食工具去帮助更多“懒人”。<\/p><p><b>这款产品我打磨了6个多月，它的主要特点是：<\/b><\/p><p><b>1. 精选10大低升糖天然谷物，保证碳水的摄入。<\/b><\/p><p><b>2. 无添加糖、低热量、网红奶茶级口感。<\/b><\/p><p><b>3. 蛋白质含量高达32%，减脂不掉肌肉和代谢。<\/b><\/p><p><b>4. 特添加玄米颗粒，增加咀嚼感，传递饱腹信号。<\/b><\/p><p><b>5. 添加多种维生素、矿物质，全面补充微量营养素。<\/b><\/p><p><b>6. 添加天然果蔬粉，增加纤维素。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-564fa487f9a4c7adbe4d18ce58ff7d6e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"485\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb\" width=\"485\" data-original=\"https://pic3.zhimg.com/v2-564fa487f9a4c7adbe4d18ce58ff7d6e_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;485&#39; height=&#39;485&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"485\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"485\" data-original=\"https://pic3.zhimg.com/v2-564fa487f9a4c7adbe4d18ce58ff7d6e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-564fa487f9a4c7adbe4d18ce58ff7d6e_b.jpg\"/><\/figure><p><b>这几点比较符合我自己选择代餐的理念。<\/b><\/p><p><b>SWIFT中式谷物奶昔现在已经上线啦，12瓶/盒，上新特价仅199元，多买还有优惠，绝对是市面上性价比最高的之一。<\/b><\/p><p class=\"ztext-empty-paragraph\"><br/><\/p><p><b>前50人送1对1饮食指导。名额有限，先到先得。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e3031868f3864819cff3559d5e9d9ebd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"626\" data-rawheight=\"626\" class=\"origin_image zh-lightbox-thumb\" width=\"626\" data-original=\"https://pic2.zhimg.com/v2-e3031868f3864819cff3559d5e9d9ebd_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;626&#39; height=&#39;626&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"626\" data-rawheight=\"626\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"626\" data-original=\"https://pic2.zhimg.com/v2-e3031868f3864819cff3559d5e9d9ebd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e3031868f3864819cff3559d5e9d9ebd_b.jpg\"/><\/figure><p><b>已经有不少爱健身和爱美的小伙伴用上了，反馈是真的好鸭！<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-764a6adbc3cf8bcb92dc2c598e468814_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1197\" data-rawheight=\"780\" class=\"origin_image zh-lightbox-thumb\" width=\"1197\" data-original=\"https://pic1.zhimg.com/v2-764a6adbc3cf8bcb92dc2c598e468814_r.jpg\"/><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1197&#39; height=&#39;780&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1197\" data-rawheight=\"780\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1197\" data-original=\"https://pic1.zhimg.com/v2-764a6adbc3cf8bcb92dc2c598e468814_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-764a6adbc3cf8bcb92dc2c598e468814_b.jpg\"/><\/figure><p>淘宝企业店目前还在搭建，可以加：burning6869，咨询订购<\/p>",
+    "comment_count": 2,
+    "image_url": "https://pic1.zhimg.com/v2-07feea10b21732f505a62ad64d47c339_r.jpg",
+    "title": "95后代餐消费暴增！代餐到底靠谱吗？",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }, {
+    "updated": 1587470774,
+    "is_labeled": false,
+    "excerpt": "“你不是在减肥吗？怎么吃得这么多！” “没事，我来大姨妈了。” “你生理期还吃巧克力？” “网上说了，吃甜食可以缓解痛经！” 这样的对话你是不是很熟悉？？？ 的确，大姨妈期间会流失很多血液，又疼又闷又难受，搞得女生每个月的那几天总是“神经质”…",
+    "admin_closed_comment": false,
+    "article_type": "normal",
+    "excerpt_title": "",
+    "id": 134129068,
+    "voteup_count": 9,
+    "upvoted_followees": [],
+    "voting": 0,
+    "author": {
+      "avatar_url_template": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_{size}.jpg",
+      "badge": [{
+        "type": "identity",
+        "description": "深圳博宁健康科技有限公司 创始人"
+      }],
+      "name": "刘洹Burning",
+      "url": "http://www.zhihu.com/api/v4/people/e09139e746335b11b7a07d6cb6b3dfc3",
+      "gender": 1,
+      "user_type": "people",
+      "url_token": "MrBurning",
+      "is_advertiser": false,
+      "avatar_url": "https://pic2.zhimg.com/v2-6e09688d1424ca66489752020ce3319b_is.jpg",
+      "is_org": false,
+      "headline": "微信burning6768 ，领取299元减脂健身资料",
+      "type": "people",
+      "id": "e09139e746335b11b7a07d6cb6b3dfc3"
+    },
+    "url": "http://zhuanlan.zhihu.com/p/134129068",
+    "comment_permission": "all",
+    "copyright_permission": "need_review",
+    "created": 1587470774,
+    "content": "<p>“你不是在减肥吗？怎么吃得这么多！”<\/p><p>“没事，我来大姨妈了。”<\/p><p>“你生理期还吃巧克力？”<\/p><p>“网上说了，吃甜食可以缓解痛经！”<\/p><p>  这样的对话你是不是很熟悉？？？<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-858264b00d5f088db46d383555ae405b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"522\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb\" width=\"522\" data-original=\"https://pic4.zhimg.com/v2-858264b00d5f088db46d383555ae405b_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='522' height='416'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"522\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"522\" data-original=\"https://pic4.zhimg.com/v2-858264b00d5f088db46d383555ae405b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-858264b00d5f088db46d383555ae405b_b.jpg\"><\/figure><p>的确，大姨妈期间会流失很多血液，又疼又闷又难受，搞得女生每个月的那几天总是“神经质”的，盼它来又怕它乱来；<\/p><p><br><\/p><p>既然人生如此艰难，那就给自己来点“甜头”吧！<\/p><p><br><\/p><p>于是很多女生一边胡吃海喝，狂塞“快乐制造机”——奶茶/甜品来续命，甚至窝在床上一动不动；又一边借着经期护体“不会胖”来安慰自己。<\/p><p>但实际却是……<\/p><p><br><\/p><p>啊~胖了好几斤！！<\/p><p><br><\/p><p><b>记住：当自己胖了，没有一口食物是无辜的。<\/b><\/p><p><br><\/p><h2><i>1 <\/i><b>生理期新陈代谢快，热量消耗更多？<\/b><\/h2><p>“姨妈期间会加快身体30%的新陈代谢，消耗量大，多吃也不胖”针对这个言论，我真是煞费苦心的查资料，根本查不到相关实验结果。<\/p><p>真不知谣言制造者从哪儿来的理论依据，敢不敢把论文及研究实验摆出来看看！<\/p><p><b>生理期也就是月经来潮的3-7天，身体的代谢并不会加速，甚至在月经前期还可能出现减缓的现象，同时出现“水分潴留”，也就是俗称的水肿。<\/b><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-210428702fe19bd36a7d61a4fadb6aeb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"449\" class=\"content_image\" width=\"378\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='378' height='449'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"449\" class=\"content_image lazy\" width=\"378\" data-actualsrc=\"https://pic4.zhimg.com/v2-210428702fe19bd36a7d61a4fadb6aeb_b.jpg\"><\/figure><p>（图片来源于网络）<\/p><p>女性的生理周期是从月经来潮第一天出血开始，到下一个月经来潮的第一天结束，一般在28（±7）天左右。<\/p><p><br><\/p><p>生理周期按照激素分泌的变化分为月经来潮（1-7天）、滤泡期（5-13天）、排卵（第14天）、黄体期（15-26天）四个阶段。<\/p><p>我们看，月经来潮前期黄体素（也就是孕激素）、雌激素都在迅速下降，到月经来潮时各个激素基本处于比较低的水平，这也意味着<b>月经周期肯定不会让人体新陈代谢有明显的加快。<\/b><\/p><p><br><\/p><p><b>而且《美国临床营养学》的杂志上有研究显示：<\/b><\/p><p><br><\/p><p>女性的生理周期中基础代谢变化幅度不大，在月经来潮时基础代谢逐渐降低，至滤泡期将至最低水平，排卵期开始缓慢上升至下一次月经来潮再下降，所以说月经来潮及月经后的一个周基础代谢反而是最低的阶段。<\/p><p>国内也有一个实验是观察正常妇女月经周期中血清瘦素水平的变化,<\/p><p>发现瘦素水平在黄体中期最高，月经来潮的第二天和第八天最低，<\/p><p><b>瘦素越低身体代谢脂肪的能力越低<\/b>。<\/p><p>看到这两个研究你还在想着胡吃海喝不长胖？？？现实会让你瞬间打脸的！<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7688b9945799f85332f00b2d56dd9b4b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"486\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"486\" data-original=\"https://pic4.zhimg.com/v2-7688b9945799f85332f00b2d56dd9b4b_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='486' height='324'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"486\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"486\" data-original=\"https://pic4.zhimg.com/v2-7688b9945799f85332f00b2d56dd9b4b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7688b9945799f85332f00b2d56dd9b4b_b.jpg\"><\/figure><p><br><\/p><p><b>那为什么有的女生在经期后会瘦两斤呢？<\/b><\/p><p>正常情况下，经期前会存在一个“水分潴留”期，<\/p><p><br><\/p><p>主要发生在月经前一周或几天，这是因为雌激素和孕激素迅速下降，<\/p><p>引起身体水肿、子宫内膜增厚，体重增加个一两斤跟正常，到了月经期随着子宫内膜的脱落及经血流出，水肿也慢慢消失，那么自然也会掉秤一两斤。<\/p><p><br><\/p><p>其实这只是身体激素调节带来的掉秤错觉，<\/p><p>这也就是说如果你经前经后体重一样，那<b>很有可能是你在月经期间吃胖了。<\/b><br><\/p><p>看了上面的一些科普，这时可能有人从中发现减肥时机了，<\/p><p>这不排卵期之后到黄体期基础代谢会上升吗？<\/p><p><br><\/p><p>网上也说了<b>月经结束后的7-14 天，消耗的热量是平时的两倍！<\/b><\/p><p>这个时候减肥岂不是更容易，还没有大姨妈的困扰。<\/p><p>哈哈哈哈哈，刚辟谣了姨妈期间“吃什么都不胖”和姨妈后一星期“新陈代谢很快”的谣言，这有来了个“姨妈前两个星期”可以减肥的理论是吧，<\/p><p><br><\/p><p>总之大家是想把生理期的每个阶段都变成黄金减脂期吧。<\/p><p><br><\/p><p><b>唉，那让你每月多来几次大姨妈你愿意吗？<\/b><\/p><p>的确，经期前的两个星期也就是黄体期前半段时间，体内的孕激素水平会升高，体温也会升高，新陈代谢会升高一点。<\/p><p><br><\/p><p>Emmm…说的好像很有道理，但是升高的那一点点基础代谢真不够你塞牙缝的。<\/p><p><br><\/p><p>孕激素导致的吸收功能略微下降也不代表就不吸收脂肪了，体温升高那0.3-0.5°，也只能让代谢增加不到100kcal，还抵不上一小碗米饭，更别说一杯热量爆表的奶茶了。<\/p><p><br><\/p><p><b>另外科罗拉多大学Horton等研究者以及塔尔图大学Vaiksaar团队都发表相关实验论证文章：女性在不同生理周期进行相同程度运动，从能量消耗总量上观察不同月经周期的物质代谢、耗氧水平、能量消耗等并无明显差异。<\/b><\/p><p>总而言之，想利用生理周期减肥，想找个阶段任性的大吃大喝那是不可能的！<\/p><p><br><\/p><p>有这个时间研究生理周期，<b>不如赶紧行动起来，少吃点零食多做些运动早就瘦了。<\/b><\/p><p><br><\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-45ffcf23a5f7832562efaed01670276f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"405\" class=\"origin_image zh-lightbox-thumb\" width=\"678\" data-original=\"https://pic4.zhimg.com/v2-45ffcf23a5f7832562efaed01670276f_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='678' height='405'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"405\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"678\" data-original=\"https://pic4.zhimg.com/v2-45ffcf23a5f7832562efaed01670276f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-45ffcf23a5f7832562efaed01670276f_b.jpg\"><\/figure><p><br><\/p><h2><i>2 <\/i><b>经期一定是女性减肥的绊脚石吗？想要经期瘦你得这样做 <\/b><\/h2><p>如果你正在减肥，其实经期也是同样可以持续进行的，只是不要过度节食和大量运动，可以将姨妈期当成每个月的“减肥休息日”，<\/p><p>稍微放缓减肥节奏，不必过度关注每日的体重变化，甚至每月休息个三五天，稍微吃点想吃的甜食也未尝不可，<\/p><p><br><\/p><p><b>真正的健康减肥，靠的还是长期合理的运动和健康饮食相结合，而不是这三五天的突击嘛。<\/b><\/p><p><b>经期饮食小建议：<\/b><\/p><p><b>1、多喝热水不是敷衍，而是真正的王者<\/b><\/p><p><br><\/p><p>嘘寒问暖万能的“多喝热水”句式已经被广大女性朋友拉进黑名单，<\/p><p>其实经期喝红糖水、红枣水之类的暖饮，真正起到作用的依旧是热水，而不是红糖、红枣。<\/p><p><br><\/p><p><b>热水能够促进血管舒张，让人感觉舒服一些，从而达到减轻疼痛的功效。<\/b><\/p><p><br><\/p><p><b>红糖没有止痛的成分，只能说它是一种糖，甜的味道能刺激身体分泌点多巴胺，让人感觉到愉悦，可能就没那么痛了<\/b>。<\/p><p><br><\/p><p>经期想吃甜品、奶茶、巧克力也是同理，但如果你不想经期总长胖长痘，那我建议你可以单纯喝热水即可。<\/p><p><b>2、想吃点甜的不妨吃一些甜水果<\/b><\/p><p>如香蕉、榴莲、橙子都不错，这些水果很甜，也能促进多巴胺分泌，满足吃甜食的欲望。<\/p><p><br><\/p><p>热量相比甜品低太多，营养却成倍增加，<b>甜水果增加膳食纤维加快胃肠道蠕动，补充钾改善经期疲劳无力感，增加维生素提升经期免疫能力<\/b>。<\/p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-09c974dd8b62f8d5fa5fbda5352db59b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"545\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"545\" data-original=\"https://pic4.zhimg.com/v2-09c974dd8b62f8d5fa5fbda5352db59b_r.jpg\"><\/noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='545' height='359'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"545\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"545\" data-original=\"https://pic4.zhimg.com/v2-09c974dd8b62f8d5fa5fbda5352db59b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-09c974dd8b62f8d5fa5fbda5352db59b_b.jpg\"><\/figure><p><br><\/p><p><b>3、多吃一些富含铁的食物<\/b><\/p><p>月经期间会流失较多经血，随之留出较多铁。<\/p><p><br><\/p><p>这时不妨多吃一些含铁丰富的食物，注意富含铁的食物不是红枣、阿胶、红糖，而是红肉类（猪、牛、羊等红色瘦肉）、动物肝脏及动物血等。<\/p><p><br><\/p><p><b>经期运动小建议<\/b>：<\/p><p><br><\/p><p>关于经期是否可以运动，其实是可以适量运动的，适当正确的运动可以促进经血的排出、缓解痛经。<\/p><p>国内曾探寻过低强度有氧运动对女大学生经期认知执行功能的影响，<\/p><p>得出的结论是女大学生<b>在月经来潮进行小强度运动20min为宜,可以有效缓解身体不适，提高积极情绪,增加大脑血流,激活大脑前额叶皮层,提高认知执行功能。<\/b><\/p><p><b>经期运动需要注意几点：<\/b><\/p><p><br><\/p><p>1. 不要压迫腹部，如卷腹、仰卧起坐等，经期腹内压增加会导致出血量改变，可能引发妇科感染及痛经；<\/p><p>2. 不要骨盆倒置，如倒立等，容易导致经血回流；<\/p><p>3. 不要剧烈运动，可能会导致经血过多或断经；<\/p><p>4. 避免游泳，不仅很尴尬还会增加感染风险；<\/p><p>经期运动尽量以轻柔为主，注重塑形或放松即可，比如简单的瑜伽、太极拳、散步等。<\/p><p>总之，放松心态，保持理智，经期别找借口暴饮暴食，也别轻信经期节食加速瘦的谣言，好好吃饭、避免生冷食物，多喝热水及按照自身状况运动就好。<\/p>",
+    "comment_count": 0,
+    "image_url": "https://pic3.zhimg.com/v2-eed33912ef4857c015c05bd32bbcb313_r.jpg",
+    "title": "经期吃甜食不长胖？想要经期健康瘦，得这样做！",
+    "can_comment": {
+      "status": true,
+      "reason": ""
+    },
+    "type": "article",
+    "suggest_edit": {
+      "status": false,
+      "url": "",
+      "reason": "",
+      "tip": "",
+      "title": ""
+    },
+    "is_normal": true
+  }]
+}
