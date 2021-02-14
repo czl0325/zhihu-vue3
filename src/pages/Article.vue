@@ -10,8 +10,9 @@
           <img :src="item.image_url" v-if="item.image_url" class="w-25 me-2">
           <div class="flex-grow-1" v-html="item.excerpt"></div>
         </div>
-        <div>
-          <p>{{item.comment_count}}条评论</p>
+        <div class="d-flex justify-content-between align-items-center">
+          <span>{{item.comment_count}}条评论</span>
+          <router-link to="`/detail/${item.id}}`" class="btn btn-primary">编辑</router-link>
         </div>
       </div>
     </div>

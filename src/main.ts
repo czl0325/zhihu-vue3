@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from "./router";
 import store from './store'
 import './mock/mock'
+import './css/reset.css'
 
 
 const app = createApp(App)
