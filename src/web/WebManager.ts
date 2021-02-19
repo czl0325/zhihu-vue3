@@ -33,3 +33,7 @@ export const getArticleList = () => {
 export const getAuthor = () => {
     return get('/column/author')
 }
+
+export const getArticleDetail = () => {
+    return get('/detail')
+}

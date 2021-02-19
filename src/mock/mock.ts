@@ -66,3 +66,11 @@ Mock.mock('/column/author', 'get', () => {
         data: require('./author.json')
     }
 })
+
+Mock.mock('/detail', 'get', ()=>{
+    return {
+        code: 0,
+        message: '成功',
+        data: require('./detail.json')
+    }
+})
